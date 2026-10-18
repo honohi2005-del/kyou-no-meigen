@@ -39,6 +39,7 @@ const DB_NAME = "kyou-no-meigen-recordings";
 const DB_VERSION = 1;
 const RECORDINGS_STORE = "recordings";
 const TOKYO_TIME_ZONE = "Asia/Tokyo";
+const CONTENT_VERSION = "8b0a76e";
 
 function plainText(rubyText) {
   return rubyText.replace(/\[[^\]]+\]/g, "");
@@ -223,7 +224,7 @@ function chooseDailyQuote() {
 
 async function loadAudioManifest() {
   try {
-    const response = await fetch("./audio/manifest.json", { cache: "no-store" });
+    const response = await fetch(`./audio/manifest.json?v=${CONTENT_VERSION}`, { cache: "no-store" });
     if (!response.ok) return;
     const manifest = await response.json();
     const files = Array.isArray(manifest.files) ? manifest.files : [];
@@ -432,7 +433,7 @@ function showAppError(message) {
 
 async function init() {
   try {
-    const response = await fetch("./data/quotes.json");
+    const response = await fetch(`./data/quotes.json?v=${CONTENT_VERSION}`, { cache: "no-store" });
     if (!response.ok) throw new Error("HTTP " + response.status);
     const rawQuotes = await response.json();
     if (!Array.isArray(rawQuotes) || rawQuotes.length === 0) throw new Error("No quotes");
@@ -502,7 +503,7 @@ window.addEventListener("hashchange", () => {
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch(() => {
+    navigator.serviceWorker.register(`./sw.js?v=${CONTENT_VERSION}`).catch(() => {
       // The app remains usable without offline caching.
     });
   });

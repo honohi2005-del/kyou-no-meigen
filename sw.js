@@ -1,11 +1,10 @@
-const CACHE_NAME = "kyou-no-meigen-v3";
+const CACHE_NAME = "kyou-no-meigen-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
   "./manifest.webmanifest",
-  "./data/quotes.json",
 ];
 
 self.addEventListener("install", (event) => {
