@@ -15,7 +15,8 @@ function fail(message) {
 }
 
 function hanWithoutRuby(value) {
-  return [...value.matchAll(/\p{Script=Han}(?!\[[^\]]+\])/gu)].map((match) => match[0]);
+  const withoutRuby = value.replace(/(?:\p{Script=Han}|々)+\[[^\]]+\]/gu, "");
+  return [...withoutRuby.matchAll(/(?:\p{Script=Han}|々)/gu)].map((match) => match[0]);
 }
 
 async function loadJson(filePath) {
@@ -65,8 +66,8 @@ try {
   process.exit();
 }
 
-if (!Array.isArray(quotes) || quotes.length < 90 || quotes.length > 120) {
-  fail("名言数が想定範囲外です: " + (Array.isArray(quotes) ? quotes.length : "配列ではありません"));
+if (!Array.isArray(quotes) || quotes.length !== 300) {
+  fail("名言数が300件ではありません: " + (Array.isArray(quotes) ? quotes.length : "配列ではありません"));
 }
 
 const ids = new Set();

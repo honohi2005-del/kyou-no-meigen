@@ -1,4 +1,4 @@
-const CACHE_NAME = "kyou-no-meigen-v5";
+const CACHE_NAME = "kyou-no-meigen-v6";
 const APP_SHELL = [
   "./",
   "./index.html",

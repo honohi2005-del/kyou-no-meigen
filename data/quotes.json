@@ -798,5 +798,1605 @@
     "source": "著書・講演で語られた人生観",
     "category": "生き方",
     "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q101",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の挑戦についての言葉",
+    "category": "挑戦",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50",
+    "ruby": "チャレンジして失敗[しっぱい]を恐[おそ]れるよりも、何[なに]もしないことを恐[おそ]れろ。"
+  },
+  {
+    "id": "q102",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の仕事観",
+    "category": "仕事",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50",
+    "ruby": "世[よ]の中[なか]に無駄[むだ]はない。やってみれば、必[かなら]ず何[なに]かが残[のこ]る。"
+  },
+  {
+    "id": "q103",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の人間観",
+    "category": "自分らしさ",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50",
+    "ruby": "人間[にんげん]、得手不得手[えてふえて]がある。不得手[ふえて]を恥[は]じることはない。"
+  },
+  {
+    "id": "q104",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の失敗観",
+    "category": "失敗",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50",
+    "ruby": "失敗[しっぱい]は、成功[せいこう]のための授業料[じゅぎょうりょう]だ。"
+  },
+  {
+    "id": "q105",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の技術者観",
+    "category": "夢",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50",
+    "ruby": "夢[ゆめ]を持[も]ち続[つづ]けることが、技術[ぎじゅつ]を進歩[しんぽ]させる。"
+  },
+  {
+    "id": "q106",
+    "author": "岡本太郎",
+    "source": "岡本太郎の人生観",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.taromuseum.jp/",
+    "ruby": "美[うつく]しく生[い]きるとは、自分[じぶん]らしく生[い]きることだ。"
+  },
+  {
+    "id": "q107",
+    "author": "岡本太郎",
+    "source": "岡本太郎の人生観",
+    "category": "生き方",
+    "sourceUrl": "https://www.taromuseum.jp/",
+    "ruby": "人生[じんせい]は、他人[たにん]の目[め]を気[き]にした瞬間[しゅんかん]につまらなくなる。"
+  },
+  {
+    "id": "q108",
+    "author": "岡本太郎",
+    "source": "岡本太郎の自分らしさについての言葉",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.taromuseum.jp/",
+    "ruby": "自分[じぶん]の運命[うんめい]を自分[じぶん]でつくれ。"
+  },
+  {
+    "id": "q109",
+    "author": "岡本太郎",
+    "source": "岡本太郎の挑戦についての言葉",
+    "category": "挑戦",
+    "sourceUrl": "https://www.taromuseum.jp/",
+    "ruby": "迷[まよ]ったら、危険[きけん]なほうへ行[い]け。"
+  },
+  {
+    "id": "q110",
+    "author": "岡本太郎",
+    "source": "岡本太郎の人生観",
+    "category": "生き方",
+    "sourceUrl": "https://www.taromuseum.jp/",
+    "ruby": "生[い]きる日[にち]のよろこび、悲[かな]しみ、そういうものを味[あじ]わい尽[つ]くせ。"
+  },
+  {
+    "id": "q111",
+    "author": "稲盛和夫",
+    "source": "『生き方』に通じる人生観",
+    "category": "夢",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/",
+    "ruby": "思[おも]いは必[かなら]ず実現[じつげん]する。"
+  },
+  {
+    "id": "q112",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の人生哲学",
+    "category": "生き方",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/",
+    "ruby": "人生[じんせい]は心[こころ]に描[えが]いたとおりになる。"
+  },
+  {
+    "id": "q113",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の人生哲学",
+    "category": "生き方",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/",
+    "ruby": "ど真剣[しんけん]に生[い]きる。"
+  },
+  {
+    "id": "q114",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の人生哲学",
+    "category": "感謝",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/",
+    "ruby": "感謝[かんしゃ]の心[こころ]が、人生[じんせい]を豊[ゆた]かにする。"
+  },
+  {
+    "id": "q115",
+    "author": "稲盛和夫",
+    "source": "『京セラフィロソフィ』に通じる考え方",
+    "category": "生き方",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/",
+    "ruby": "人間[にんげん]として正[ただ]しいことを貫[つらぬ]く。"
+  },
+  {
+    "id": "q116",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "生き方",
+    "sourceUrl": "https://www.mitsuo.co.jp/",
+    "ruby": "雨[あめ]の日[にち]には雨[あめ]の中[なか]を、風[かぜ]の日[にち]には風[かぜ]の中[なか]を。"
+  },
+  {
+    "id": "q117",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "心の持ち方",
+    "sourceUrl": "https://www.mitsuo.co.jp/",
+    "ruby": "いいことはおかげさま、わるいことは身[み]から出[で]たさび。"
+  },
+  {
+    "id": "q118",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.mitsuo.co.jp/",
+    "ruby": "いまここにしかない自分[じぶん]を大切[たいせつ]にする。"
+  },
+  {
+    "id": "q119",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "学び",
+    "sourceUrl": "https://www.mitsuo.co.jp/",
+    "ruby": "一生懸命[いっしょうけんめい]、一生[いっしょう]勉強[べんきょう]。"
+  },
+  {
+    "id": "q120",
+    "author": "相田みつを",
+    "source": "『しあわせはいつも』所収の言葉",
+    "category": "幸福",
+    "sourceUrl": "https://www.mitsuo.co.jp/",
+    "ruby": "しあわせは、いつも自分[じぶん]の心[こころ]がきめる。"
+  },
+  {
+    "id": "q121",
+    "author": "イチロー",
+    "source": "引退会見・インタビューでの発言",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "夢[ゆめ]をつかむというのは、一日[ついたち]一日[ついたち]の積[つ]み重[かさ]ねです。"
+  },
+  {
+    "id": "q122",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "心の持ち方",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "苦[くる]しみを背負[せお]っているから、喜[よろこ]びも大[おお]きい。"
+  },
+  {
+    "id": "q123",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "自分らしさ",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]の力[ちから]で進[すす]んでいくしかない。"
+  },
+  {
+    "id": "q124",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "毎日[まいにち]、何[なに]かを積[つ]み重[かさ]ねることが大切[たいせつ]です。"
+  },
+  {
+    "id": "q125",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "集中",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]がやるべきことを、淡々[たんたん]とやる。"
+  },
+  {
+    "id": "q126",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.japan-baseball.jp/",
+    "ruby": "誰[だれ]もやったことのないことをやりたい。"
+  },
+  {
+    "id": "q127",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "学び",
+    "sourceUrl": "https://www.japan-baseball.jp/",
+    "ruby": "無駄[むだ]なことは何[なに]もない。"
+  },
+  {
+    "id": "q128",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "成長",
+    "sourceUrl": "https://www.japan-baseball.jp/",
+    "ruby": "悔[くや]しいという気持[きも]ちがないと、成長[せいちょう]できない。"
+  },
+  {
+    "id": "q129",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "集中",
+    "sourceUrl": "https://www.japan-baseball.jp/",
+    "ruby": "自分[じぶん]の力[ちから]を信[しん]じて、やるべきことをやる。"
+  },
+  {
+    "id": "q130",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "楽しむ",
+    "sourceUrl": "https://www.japan-baseball.jp/",
+    "ruby": "野球[やきゅう]を楽[たの]しむ気持[きも]ちを忘[わす]れない。"
+  },
+  {
+    "id": "q131",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "選択",
+    "sourceUrl": "https://www.shogi.or.jp/",
+    "ruby": "決断[けつだん]は、迷[まよ]った時間[じかん]の長[なが]さではなく、決[き]めた後[のち]の行動[こうどう]で決[き]まる。"
+  },
+  {
+    "id": "q132",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "準備",
+    "sourceUrl": "https://www.shogi.or.jp/",
+    "ruby": "勝負[しょうぶ]に絶対[ぜったい]はないからこそ、準備[じゅんび]をする。"
+  },
+  {
+    "id": "q133",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "努力",
+    "sourceUrl": "https://www.shogi.or.jp/",
+    "ruby": "才能[さいのう]とは、努力[どりょく]を続[つづ]けられる力[ちから]です。"
+  },
+  {
+    "id": "q134",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "思考",
+    "sourceUrl": "https://www.shogi.or.jp/",
+    "ruby": "未知[みち]の局面[きょくめん]では、まず自分[じぶん]の頭[あたま]で考[かんが]える。"
+  },
+  {
+    "id": "q135",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "変化",
+    "sourceUrl": "https://www.shogi.or.jp/",
+    "ruby": "変化[へんか]を恐[おそ]れることは、可能性[かのうせい]を閉[と]じることです。"
+  },
+  {
+    "id": "q136",
+    "author": "山中伸弥",
+    "source": "研究と好奇心についての発言",
+    "category": "研究",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/",
+    "ruby": "研究者[けんきゅうしゃ]にとって大切[たいせつ]なのは、好奇心[こうきしん]です。"
+  },
+  {
+    "id": "q137",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての講演・発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/",
+    "ruby": "失敗[しっぱい]を恐[おそ]れず、挑戦[ちょうせん]し続[つづ]けることが大切[たいせつ]です。"
+  },
+  {
+    "id": "q138",
+    "author": "山中伸弥",
+    "source": "研究者としての志を語った発言",
+    "category": "研究",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/",
+    "ruby": "人[にん]の役[やく]に立[た]つ研究[けんきゅう]をしたい。"
+  },
+  {
+    "id": "q139",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての発言",
+    "category": "継続",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/",
+    "ruby": "一歩[いっぽ]一歩[いっぽ]、前[まえ]に進[すす]むしかありません。"
+  },
+  {
+    "id": "q140",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての講演・発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/",
+    "ruby": "できるかできないかではなく、やるかやらないかが大切[たいせつ]です。"
+  },
+  {
+    "id": "q141",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "失敗",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "人生[じんせい]に失敗[しっぱい]がないと、人生[じんせい]を失敗[しっぱい]する。"
+  },
+  {
+    "id": "q142",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]は、夢[ゆめ]を実現[じつげん]するための道具[どうぐ]です。"
+  },
+  {
+    "id": "q143",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "自分らしさ",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]の人生[じんせい]は、自分[じぶん]で決[き]める。"
+  },
+  {
+    "id": "q144",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "人[にん]は、笑[わら]うために生[い]きている。"
+  },
+  {
+    "id": "q145",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "創造",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]が面白[おもしろ]いと思[おも]うことを、やり続[つづ]ければいい。"
+  },
+  {
+    "id": "q146",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "再出発",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "人[にん]は生[い]きている限[かぎ]り、何度[なんど]でもやり直[なお]すことができます。"
+  },
+  {
+    "id": "q147",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた愛についての言葉",
+    "category": "愛",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "愛[あい]するということは、相手[あいて]を許[ゆる]すことです。"
+  },
+  {
+    "id": "q148",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "希望",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "苦[くる]しみのない人生[じんせい]はありません。だからこそ、希望[きぼう]が必要[ひつよう]なのです。"
+  },
+  {
+    "id": "q149",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "愛",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "生[い]きることは、愛[あい]することです。"
+  },
+  {
+    "id": "q150",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "今日[きょう]を精[せい]いっぱい生[い]きれば、明日[あした]が見[み]えてきます。"
+  },
+  {
+    "id": "q151",
+    "author": "黒澤明",
+    "source": "黒澤明の映画観",
+    "category": "創作",
+    "sourceUrl": "https://showa-g.org/wremarks/view/39",
+    "ruby": "映画[えいが]は、人生[じんせい]を描[えが]くものだ。"
+  },
+  {
+    "id": "q152",
+    "author": "黒澤明",
+    "source": "黒澤明の創作についての言葉",
+    "category": "創作",
+    "sourceUrl": "https://showa-g.org/wremarks/view/39",
+    "ruby": "一生懸命[いっしょうけんめい]に作[つく]ったものは、必[かなら]ず人[にん]の心[こころ]に届[とど]く。"
+  },
+  {
+    "id": "q153",
+    "author": "黒澤明",
+    "source": "黒澤明の映画観",
+    "category": "人間",
+    "sourceUrl": "https://showa-g.org/wremarks/view/39",
+    "ruby": "人間[にんげん]を好[す]きにならなければ、映画[えいが]は撮[と]れない。"
+  },
+  {
+    "id": "q154",
+    "author": "黒澤明",
+    "source": "黒澤明の創作についての言葉",
+    "category": "夢",
+    "sourceUrl": "https://showa-g.org/wremarks/view/39",
+    "ruby": "夢[ゆめ]は、映画[えいが]を作[つく]る原動力[げんどうりょく]だ。"
+  },
+  {
+    "id": "q155",
+    "author": "黒澤明",
+    "source": "昭和ガイド掲載の発言",
+    "category": "仕事",
+    "sourceUrl": "https://showa-g.org/wremarks/view/43",
+    "ruby": "人間[にんげん]は、いつどこで一生[いっしょう]の仕事[しごと]にめぐり合[あ]うか分[わ]からない。"
+  },
+  {
+    "id": "q156",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "人間",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "人間[にんげん]は、無視[むし]されることが一番[いちばん]つらい。"
+  },
+  {
+    "id": "q157",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "才能[さいのう]は、努力[どりょく]によって開花[かいか]する。"
+  },
+  {
+    "id": "q158",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "思考",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "考[かんが]えて、考[かんが]えて、考[かんが]え抜[ぬ]け。"
+  },
+  {
+    "id": "q159",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "一流[いちりゅう]になる人[にん]は、努力[どりょく]を続[つづ]けられる人[にん]だ。"
+  },
+  {
+    "id": "q160",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "人間的[にんげんてき]成長[せいちょう]なくして、技術的進歩[ぎじゅつてきしんぽ]なし。"
+  },
+  {
+    "id": "q161",
+    "author": "手塚治虫",
+    "source": "手塚治虫の未来へのことば",
+    "category": "自信",
+    "sourceUrl": "https://showa-g.org/wremarks/view/555",
+    "ruby": "人[にん]を信[しん]じよ。しかしその百倍[ひゃくばい]も自[みずか]らを信[しん]じよ。"
+  },
+  {
+    "id": "q162",
+    "author": "手塚治虫",
+    "source": "手塚治虫の創作についての言葉",
+    "category": "創作",
+    "sourceUrl": "https://showa-g.org/wremarks/view/555",
+    "ruby": "マンガは、人生[じんせい]の教科書[きょうかしょ]になり得[え]る。"
+  },
+  {
+    "id": "q163",
+    "author": "手塚治虫",
+    "source": "手塚治虫の作品・講演に通じる言葉",
+    "category": "生命",
+    "sourceUrl": "https://showa-g.org/wremarks/view/555",
+    "ruby": "生命[せいめい]を尊重[そんちょう]しない人間[にんげん]は、生命[せいめい]を尊重[そんちょう]することもできない。"
+  },
+  {
+    "id": "q164",
+    "author": "手塚治虫",
+    "source": "手塚治虫の未来へのことば",
+    "category": "未来",
+    "sourceUrl": "https://showa-g.org/wremarks/view/555",
+    "ruby": "未来[みらい]は、若[わか]い人[にん]たちの手[て]の中[なか]にある。"
+  },
+  {
+    "id": "q165",
+    "author": "手塚治虫",
+    "source": "手塚治虫の創作についての言葉",
+    "category": "創作",
+    "sourceUrl": "https://showa-g.org/wremarks/view/555",
+    "ruby": "創作[そうさく]するということは、自分[じぶん]をさらけ出[だ]すことだ。"
+  },
+  {
+    "id": "q166",
+    "author": "宮崎駿",
+    "source": "宮崎駿の創作についての言葉",
+    "category": "創作",
+    "sourceUrl": "https://www.ghibli.jp/",
+    "ruby": "映画[えいが]は、観客[かんきゃく]のためにある。"
+  },
+  {
+    "id": "q167",
+    "author": "宮崎駿",
+    "source": "宮崎駿の創作についての言葉",
+    "category": "学び",
+    "sourceUrl": "https://www.ghibli.jp/",
+    "ruby": "子[こ]どもたちには、豊[ゆた]かな想像力[そうぞうりょく]を持[も]ってほしい。"
+  },
+  {
+    "id": "q168",
+    "author": "宮崎駿",
+    "source": "宮崎駿の創作についての言葉",
+    "category": "思考",
+    "sourceUrl": "https://www.ghibli.jp/",
+    "ruby": "自分[じぶん]の目[め]で見[み]て、自分[じぶん]の頭[あたま]で考[かんが]える。"
+  },
+  {
+    "id": "q169",
+    "author": "宮崎駿",
+    "source": "宮崎駿の作品・インタビューに通じる言葉",
+    "category": "生き方",
+    "sourceUrl": "https://www.ghibli.jp/",
+    "ruby": "生[い]きることは、ままならないことの連続[れんぞく]だ。"
+  },
+  {
+    "id": "q170",
+    "author": "宮崎駿",
+    "source": "宮崎駿の創作についての言葉",
+    "category": "想像力",
+    "sourceUrl": "https://www.ghibli.jp/",
+    "ruby": "想像力[そうぞうりょく]は、人間[にんげん]を自由[じゆう]にする。"
+  },
+  {
+    "id": "q171",
+    "author": "王貞治",
+    "source": "王貞治の野球・努力についての言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]は必[かなら]ず報[むく]われる。もし報[むく]われない努力[どりょく]があるなら、それはまだ努力[どりょく]とは呼[よ]べない。"
+  },
+  {
+    "id": "q172",
+    "author": "王貞治",
+    "source": "王貞治の野球についての言葉",
+    "category": "勝負",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "勝負[しょうぶ]は、最後[さいご]まであきらめない者[もの]が勝[か]つ。"
+  },
+  {
+    "id": "q173",
+    "author": "王貞治",
+    "source": "王貞治の指導についての言葉",
+    "category": "可能性",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]の可能性[かのうせい]を、自分[じぶん]で決[き]めつけてはいけない。"
+  },
+  {
+    "id": "q174",
+    "author": "王貞治",
+    "source": "王貞治の野球についての言葉",
+    "category": "心の持ち方",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "苦[くる]しい時[とき]こそ、笑顔[えがお]を忘[わす]れない。"
+  },
+  {
+    "id": "q175",
+    "author": "王貞治",
+    "source": "王貞治の努力についての言葉",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "一[ひと]つのことを続[つづ]けることに、価値[かち]がある。"
+  },
+  {
+    "id": "q176",
+    "author": "長嶋茂雄",
+    "source": "長嶋茂雄の野球についての言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]は人[にん]を裏切[うらぎ]らない。"
+  },
+  {
+    "id": "q177",
+    "author": "長嶋茂雄",
+    "source": "長嶋茂雄の野球についての言葉",
+    "category": "失敗",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "失敗[しっぱい]は成功[せいこう]のマザー。"
+  },
+  {
+    "id": "q178",
+    "author": "長嶋茂雄",
+    "source": "長嶋茂雄の指導についての言葉",
+    "category": "基本",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "何事[なにごと]も、基本[きほん]が大切[たいせつ]です。"
+  },
+  {
+    "id": "q179",
+    "author": "長嶋茂雄",
+    "source": "長嶋茂雄の野球についての言葉",
+    "category": "夢",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "夢[ゆめ]を持[も]つことが、始[はじ]まりです。"
+  },
+  {
+    "id": "q180",
+    "author": "長嶋茂雄",
+    "source": "長嶋茂雄の野球についての言葉",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "一日[ついたち]一日[ついたち]を大切[たいせつ]にする。"
+  },
+  {
+    "id": "q181",
+    "author": "松井秀喜",
+    "source": "松井秀喜の野球・努力についての言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]できることが才能[さいのう]だ。"
+  },
+  {
+    "id": "q182",
+    "author": "松井秀喜",
+    "source": "松井秀喜の野球についての言葉",
+    "category": "集中",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]にできることを、精[せい]いっぱいやる。"
+  },
+  {
+    "id": "q183",
+    "author": "松井秀喜",
+    "source": "松井秀喜の野球についての言葉",
+    "category": "学び",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "失敗[しっぱい]から学[まな]ぶことが、成長[せいちょう]につながる。"
+  },
+  {
+    "id": "q184",
+    "author": "松井秀喜",
+    "source": "松井秀喜の野球についての言葉",
+    "category": "準備",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "結果[けっか]を恐[おそ]れず、準備[じゅんび]を大切[たいせつ]にする。"
+  },
+  {
+    "id": "q185",
+    "author": "松井秀喜",
+    "source": "松井秀喜の野球についての言葉",
+    "category": "協力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]の役割[やくわり]を果[は]たすことが、チームへの貢献[こうけん]です。"
+  },
+  {
+    "id": "q186",
+    "author": "落合博満",
+    "source": "落合博満の野球についての言葉",
+    "category": "集中",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "やるべきことをやる。それだけです。"
+  },
+  {
+    "id": "q187",
+    "author": "落合博満",
+    "source": "落合博満の指導についての言葉",
+    "category": "準備",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "練習[れんしゅう]でできないことは、試合[しあい]でもできない。"
+  },
+  {
+    "id": "q188",
+    "author": "落合博満",
+    "source": "落合博満の指導についての言葉",
+    "category": "自立",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]で考[かんが]え、自分[じぶん]で決[き]め、自分[じぶん]で責任[せきにん]を取[と]る。"
+  },
+  {
+    "id": "q189",
+    "author": "落合博満",
+    "source": "落合博満の野球についての言葉",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "勝[か]つために必要[ひつよう]なことを、毎日[まいにち]積[つ]み重[かさ]ねる。"
+  },
+  {
+    "id": "q190",
+    "author": "落合博満",
+    "source": "落合博満の野球についての言葉",
+    "category": "仕事",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "プロなら、結果[けっか]で評価[ひょうか]される。"
+  },
+  {
+    "id": "q191",
+    "author": "吉田沙保里",
+    "source": "吉田沙保里の競技人生についての言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]は裏切[うらぎ]らない。自分[じぶん]を裏切[うらぎ]らない。"
+  },
+  {
+    "id": "q192",
+    "author": "吉田沙保里",
+    "source": "吉田沙保里の競技人生についての言葉",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "最後[さいご]まであきらめない気持[きも]ちが大事[だいじ]です。"
+  },
+  {
+    "id": "q193",
+    "author": "吉田沙保里",
+    "source": "吉田沙保里の競技人生についての言葉",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "勝[か]つためには、負[ま]けた悔[くや]しさを忘[わす]れないことです。"
+  },
+  {
+    "id": "q194",
+    "author": "吉田沙保里",
+    "source": "吉田沙保里の競技人生についての言葉",
+    "category": "自分らしさ",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]に負[ま]けないことが、一番大切[いちばんたいせつ]です。"
+  },
+  {
+    "id": "q195",
+    "author": "吉田沙保里",
+    "source": "吉田沙保里の競技人生についての言葉",
+    "category": "感謝",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "支[ささ]えてくれる人[にん]への感謝[かんしゃ]を力[ちから]に変[か]える。"
+  },
+  {
+    "id": "q196",
+    "author": "井村雅代",
+    "source": "井村雅代の指導についての言葉",
+    "category": "挑戦",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "できない理由[りゆう]を探[さが]すより、できる方法[ほうほう]を考[かんが]える。"
+  },
+  {
+    "id": "q197",
+    "author": "井村雅代",
+    "source": "井村雅代の指導についての言葉",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "努力[どりょく]は、やった人[にん]にしか分[わ]からない。"
+  },
+  {
+    "id": "q198",
+    "author": "井村雅代",
+    "source": "井村雅代の指導についての言葉",
+    "category": "可能性",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "自分[じぶん]で限界[げんかい]を決[き]めたら、そこで終[お]わりです。"
+  },
+  {
+    "id": "q199",
+    "author": "井村雅代",
+    "source": "井村雅代の指導についての言葉",
+    "category": "集中",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "本気[ほんき]でやるから、見[み]えるものがある。"
+  },
+  {
+    "id": "q200",
+    "author": "井村雅代",
+    "source": "井村雅代の指導についての言葉",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/",
+    "ruby": "夢[ゆめ]をかなえるには、毎日[まいにち]の練習[れんしゅう]しかない。"
+  },
+  {
+    "id": "q201",
+    "author": "安西先生",
+    "source": "『SLAM DUNK』作品内の台詞",
+    "category": "継続",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "あきらめたらそこで試合終了[しあいしゅうりょう]ですよ。"
+  },
+  {
+    "id": "q202",
+    "author": "煉獄杏寿郎",
+    "source": "『鬼滅の刃』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "己[おのれ]の弱[よわ]さや不甲斐[ふがい]なさにどれだけ打[う]ちのめされようと、心[こころ]を燃[も]やせ。"
+  },
+  {
+    "id": "q203",
+    "author": "ヒンメル",
+    "source": "『葬送のフリーレン』作品内の台詞",
+    "category": "勇気",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "いいじゃないか偽物[にせもの]の勇者[ゆうしゃ]で。僕[ぼく]は魔王[まおう]を倒[たお]して世界[せかい]の平和[へいわ]を取[と]り戻[もど]す。"
+  },
+  {
+    "id": "q204",
+    "author": "Dr.ヒルルク",
+    "source": "『ONE PIECE』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "人[にん]はいつ死[し]ぬと思[おも]う…？ 人[にん]に忘[わす]れられた時[とき]さ。"
+  },
+  {
+    "id": "q205",
+    "author": "ルルーシュ",
+    "source": "『コードギアス』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "撃[う]っていいのは、撃[う]たれる覚悟[かくご]のある奴[やつ]だけだ。"
+  },
+  {
+    "id": "q206",
+    "author": "及川徹",
+    "source": "『ハイキュー!!』作品内の台詞",
+    "category": "努力",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "才能[さいのう]は開花[かいか]させるもの、センスは磨[みが]くもの。"
+  },
+  {
+    "id": "q207",
+    "author": "絵心甚八",
+    "source": "『ブルーロック』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "世界一[せかいいち]のエゴイストでなければ、世界一[せかいいち]のストライカーにはなれない。"
+  },
+  {
+    "id": "q208",
+    "author": "エドワード・エルリック",
+    "source": "『鋼の錬金術師』作品内の台詞",
+    "category": "学び",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "痛[いた]みを伴[ともな]わない教訓[きょうくん]には意義[いぎ]がない。"
+  },
+  {
+    "id": "q209",
+    "author": "碇シンジ",
+    "source": "『新世紀エヴァンゲリオン』作品内の台詞",
+    "category": "勇気",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "逃[に]げちゃダメだ。"
+  },
+  {
+    "id": "q210",
+    "author": "北信介",
+    "source": "『ハイキュー!!』作品内の台詞",
+    "category": "継続",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "喝采[かっさい]はいらん。ちゃんとやんねん。"
+  },
+  {
+    "id": "q211",
+    "author": "南波六太",
+    "source": "『宇宙兄弟』作品内の台詞",
+    "category": "失敗",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "本気[ほんき]の失敗[しっぱい]には価値[かち]がある。"
+  },
+  {
+    "id": "q212",
+    "author": "南波六太",
+    "source": "『宇宙兄弟』作品内の台詞",
+    "category": "自分らしさ",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]の敵[てき]はだいたい俺[おれ]です。"
+  },
+  {
+    "id": "q213",
+    "author": "日比野カフカ",
+    "source": "『怪獣8号』作品内の台詞",
+    "category": "継続",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]は諦[あきら]めないんで、死[し]ぬまでわかんねーっス。"
+  },
+  {
+    "id": "q214",
+    "author": "蜂楽廻",
+    "source": "『ブルーロック』作品内の台詞",
+    "category": "自分らしさ",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "それが俺[おれ]を解[と]き放[ほうっ]つ、はじまりのエゴだ！！！"
+  },
+  {
+    "id": "q215",
+    "author": "作品キャッチコピー",
+    "source": "『左ききのエレン』作品キャッチコピー",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "天才[てんさい]になれなかったすべての人[にん]へ。"
+  },
+  {
+    "id": "q216",
+    "author": "矢口八虎",
+    "source": "『ブルーピリオド』作品内の台詞",
+    "category": "努力",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "努力[どりょく]できるのは才能[さいのう]なんだから、努力[どりょく]は誰[だれ]でもできることじゃない。"
+  },
+  {
+    "id": "q217",
+    "author": "矢口八虎",
+    "source": "『ブルーピリオド』作品内の台詞",
+    "category": "創作",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "一位[いちい]の絵[え]じゃなくて、私[わたし]の「最高[さいこう]の絵[え]」を目指[めざ]さなきゃね。"
+  },
+  {
+    "id": "q218",
+    "author": "金森さやか",
+    "source": "『映像研には手を出すな！』作品内の台詞",
+    "category": "創作",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "世間[せけん]に作品[さくひん]を認[みと]めてもらうには、明[あか]るいところに行[い]くべきなんですよ。"
+  },
+  {
+    "id": "q219",
+    "author": "金森さやか",
+    "source": "『映像研には手を出すな！』作品内の台詞",
+    "category": "創作",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "そこにあっちゃいけねぇんだよ。"
+  },
+  {
+    "id": "q220",
+    "author": "黄前久美子",
+    "source": "『響け！ユーフォニアム』作品内の台詞",
+    "category": "努力",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "私[わたし]は頑張[がんば]れば何[なに]かがあるって信[しん]じてる。"
+  },
+  {
+    "id": "q221",
+    "author": "滝昇",
+    "source": "『響け！ユーフォニアム』作品内の台詞",
+    "category": "努力",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "一生懸命[いっしょうけんめい]頑張[がんば]って努力[どりょく]して、でも結局[けっきょく]ダメだったなんて誰[だれ]にでもあることだよ。"
+  },
+  {
+    "id": "q222",
+    "author": "原田先生",
+    "source": "『ちはやふる』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "青春[せいしゅん]ぜんぶ懸[か]けたって強[つよ]くなれない？ 懸[か]けてから言[い]いなさい。"
+  },
+  {
+    "id": "q223",
+    "author": "殺せんせー",
+    "source": "『暗殺教室』作品内の台詞",
+    "category": "成長",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "失敗[しっぱい]も挫折[ざせつ]も成長[せいちょう]の源[げん]。"
+  },
+  {
+    "id": "q224",
+    "author": "殺せんせー",
+    "source": "『暗殺教室』作品内の台詞",
+    "category": "自分らしさ",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "君[くん]の才能[さいのう]にあった暗殺[あんさつ]を探[さが]してください。"
+  },
+  {
+    "id": "q225",
+    "author": "校長",
+    "source": "『銀の匙』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "逃[に]げたことを卑下[ひげ]しないで、それをプラスに変[か]えてこそ、逃[に]げた甲斐[かい]があるというものです。"
+  },
+  {
+    "id": "q226",
+    "author": "武田一鉄",
+    "source": "『ハイキュー!!』作品内の台詞",
+    "category": "失敗",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "『負[ま]け』は弱[よわ]さの証明[しょうめい]ですか？ 君達[きみたち]がそこに這[は]いつくばったままなら、それこそが弱[よわ]さの証明[しょうめい]です。"
+  },
+  {
+    "id": "q227",
+    "author": "アスタ",
+    "source": "『ブラッククローバー』作品内の台詞",
+    "category": "継続",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "諦[あきら]めないのが俺[おれ]の魔法[まほう]だ。"
+  },
+  {
+    "id": "q228",
+    "author": "オールマイト",
+    "source": "『僕のヒーローアカデミア』作品内の台詞",
+    "category": "勇気",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "私[わたし]が来[き]た！"
+  },
+  {
+    "id": "q229",
+    "author": "緑谷出久",
+    "source": "『僕のヒーローアカデミア』作品内の台詞",
+    "category": "自分らしさ",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "なりたい自分[じぶん]になっていいんだよ。"
+  },
+  {
+    "id": "q230",
+    "author": "うずまきナルト",
+    "source": "『NARUTO』作品内の台詞",
+    "category": "信念",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "まっすぐ自分[じぶん]の言葉[ことば]は曲[ま]げねぇ。それが俺[おれ]の忍道[にんどう]だ。"
+  },
+  {
+    "id": "q231",
+    "author": "小淵沢報瀬",
+    "source": "『宇宙よりも遠い場所』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "ざまあみろ！"
+  },
+  {
+    "id": "q232",
+    "author": "ラファウ",
+    "source": "『チ。―地球の運動について―』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "そして今[いま]から、地球[ちきゅう]を動[うご]かす。"
+  },
+  {
+    "id": "q233",
+    "author": "アルミン",
+    "source": "『進撃の巨人』作品内の台詞",
+    "category": "決断",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "何[なに]も捨[す]てることができない人[にん]には、何[なに]も変[か]えることはできない。"
+  },
+  {
+    "id": "q234",
+    "author": "霊幻新隆",
+    "source": "『モブサイコ100』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "嫌[いや]な時[とき]はな……逃[に]げたって良[よ]いんだよ！"
+  },
+  {
+    "id": "q235",
+    "author": "ジョルノ・ジョバァーナ",
+    "source": "『ジョジョの奇妙な冒険』作品内の台詞",
+    "category": "夢",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "このジョルノ・ジョバァーナには「夢[ゆめ]」がある！"
+  },
+  {
+    "id": "q236",
+    "author": "坂田銀時",
+    "source": "『銀魂』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]は自分[じぶん]の肉体[にくたい]が滅[ほろ]ぶまで、背筋[せすじ]伸[の]ばして生[い]きてくだけよっ！！"
+  },
+  {
+    "id": "q237",
+    "author": "坂田銀時",
+    "source": "『銀魂』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "美[うつく]しく最後[さいご]を飾[かざ]りつける暇[ひま]があるなら、最後[さいご]まで美[うつく]しく生[い]きようじゃねーか。"
+  },
+  {
+    "id": "q238",
+    "author": "トールズ",
+    "source": "『ヴィンランド・サガ』作品内の台詞",
+    "category": "平和",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "誰[だれ]にも敵[てき]などいないんだ。"
+  },
+  {
+    "id": "q239",
+    "author": "槙島聖護",
+    "source": "『PSYCHO-PASS』作品内の台詞",
+    "category": "正義",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "正義[せいぎ]は議論[ぎろん]の種[たね]になるが、力[ちから]は非常[ひじょう]にはっきりしている。"
+  },
+  {
+    "id": "q240",
+    "author": "槙島聖護",
+    "source": "『PSYCHO-PASS』作品内の台詞",
+    "category": "読書",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "紙[かみ]の本[ほん]を読[よ]みなよ。電子[でんし]書籍[しょせき]は味気[あじけ]ない。"
+  },
+  {
+    "id": "q241",
+    "author": "草薙素子",
+    "source": "『攻殻機動隊』作品内の台詞",
+    "category": "変化",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "世[よ]の中[なか]に不満[ふまん]があるなら自分[じぶん]を変[か]えろ。"
+  },
+  {
+    "id": "q242",
+    "author": "草薙素子",
+    "source": "『攻殻機動隊』作品内の台詞",
+    "category": "直感",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "そう囁[ささや]くのよ、私[わたし]のゴーストが。"
+  },
+  {
+    "id": "q243",
+    "author": "金木研",
+    "source": "『東京喰種』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "僕[ぼく]を喰[しょく]おうとしたんだ。僕[ぼく]に喰[く]われても仕方[しかた]ないよね？"
+  },
+  {
+    "id": "q244",
+    "author": "アイゼン",
+    "source": "『葬送のフリーレン』作品内の台詞",
+    "category": "勇気",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "怖[こわ]がることは悪[わる]いことではない。"
+  },
+  {
+    "id": "q245",
+    "author": "ノヴァク",
+    "source": "『チ。―地球の運動について―』作品内の台詞",
+    "category": "決断",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "この世[よ]で最[もっと]も肝心[かんじん]な選択[せんたく]とは、何[なに]を諦[あきら]めるかだ。"
+  },
+  {
+    "id": "q246",
+    "author": "デンジ",
+    "source": "『チェンソーマン』作品内の台詞",
+    "category": "夢",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "みんな偉[えら]い夢[ゆめ]持[も]ってていいなア！！ じゃあ夢[ゆめ]バトルしようぜ！"
+  },
+  {
+    "id": "q247",
+    "author": "マキマ",
+    "source": "『チェンソーマン』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "死体[したい]が喋[しゃべ]っている。"
+  },
+  {
+    "id": "q248",
+    "author": "レヴィ",
+    "source": "『BLACK LAGOON』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]たちはもう、生[い]ける屍[しかばね]だ。"
+  },
+  {
+    "id": "q249",
+    "author": "少佐",
+    "source": "『HELLSING』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "諸君[しょくん]、私[わたし]は戦争[せんそう]が好[す]きだ。"
+  },
+  {
+    "id": "q250",
+    "author": "ギンコ",
+    "source": "『蟲師』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "本来[ほんらい]、生[い]きるということは、それだけで戦[たたか]いのはずです。"
+  },
+  {
+    "id": "q251",
+    "author": "本田透",
+    "source": "『フルーツバスケット』作品内の台詞",
+    "category": "希望",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "雪[ゆき]が溶[と]けたら何[なに]になるでしょう？ ……春[はる]になります。"
+  },
+  {
+    "id": "q252",
+    "author": "桐山零",
+    "source": "『3月のライオン』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "全[まった]く違[ちが]う方向[ほうこう]から、嵐[あらし]のように救[すく]われる事[こと]がある。"
+  },
+  {
+    "id": "q253",
+    "author": "夏目貴志",
+    "source": "『夏目友人帳』作品内の台詞",
+    "category": "成長",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "優[やさ]しさを知[し]って、逃[に]げたくないって思[おも]った。"
+  },
+  {
+    "id": "q254",
+    "author": "夏目貴志",
+    "source": "『夏目友人帳』作品内の台詞",
+    "category": "友情",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "情[じょう]が移[うつ]ったからさ。友人[ゆうじん]の為[ため]に動[うご]いて何[なに]が悪[わる]い。"
+  },
+  {
+    "id": "q255",
+    "author": "ライオス",
+    "source": "『ダンジョン飯』作品内の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "食[く]うことは生[い]きること。"
+  },
+  {
+    "id": "q256",
+    "author": "ロイド",
+    "source": "『SPY×FAMILY』作品内の台詞",
+    "category": "平和",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "子[こ]どもが泣[な]かない世界[せかい]、それを作[つく]りたくてオレはスパイになったんだ。"
+  },
+  {
+    "id": "q257",
+    "author": "五条悟",
+    "source": "『呪術廻戦』作品内の台詞",
+    "category": "自信",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "大丈夫[だいじょうぶ]、僕[ぼく]、最強[さいきょう]だから。"
+  },
+  {
+    "id": "q258",
+    "author": "岸辺露伴",
+    "source": "『ジョジョの奇妙な冒険』作品内の台詞",
+    "category": "信念",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "だが断[ことわ]る。"
+  },
+  {
+    "id": "q259",
+    "author": "猫猫",
+    "source": "『薬屋のひとりごと』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "これ、毒[どく]です。"
+  },
+  {
+    "id": "q260",
+    "author": "ロロノア・ゾロ",
+    "source": "『ONE PIECE』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "…なにも！！！ なかった…！！！！"
+  },
+  {
+    "id": "q261",
+    "author": "藍染惣右介",
+    "source": "『BLEACH』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "あまり強[つよ]い言葉[ことば]を遣[つか]うなよ。弱[よわ]く見[み]えるぞ。"
+  },
+  {
+    "id": "q262",
+    "author": "藍染惣右介",
+    "source": "『BLEACH』作品内の台詞",
+    "category": "心の持ち方",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "憧[あこが]れは理解[りかい]から最[もっと]も遠[とお]い感情[かんじょう]だよ。"
+  },
+  {
+    "id": "q263",
+    "author": "ケンシロウ",
+    "source": "『北斗の拳』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "お前[まえ]はもう死[し]んでいる。"
+  },
+  {
+    "id": "q264",
+    "author": "水篠旬",
+    "source": "『俺だけレベルアップな件』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "起[お]きろ。"
+  },
+  {
+    "id": "q265",
+    "author": "マッシュ",
+    "source": "『マッシュル』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "ならぶっ壊[こわ]すしかないでしょ、グーパンで。"
+  },
+  {
+    "id": "q266",
+    "author": "パワー",
+    "source": "『チェンソーマン』作品内の台詞",
+    "category": "自信",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "ワシの名[めい]はパワー！"
+  },
+  {
+    "id": "q267",
+    "author": "ブローノ・ブチャラティ",
+    "source": "『ジョジョの奇妙な冒険』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "覚悟[かくご]はいいか？ 俺[おれ]はできてる。"
+  },
+  {
+    "id": "q268",
+    "author": "鬼龍院皐月",
+    "source": "『キルラキル』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "服[ふく]を着[き]た豚[ぶた]共[とも]！！！"
+  },
+  {
+    "id": "q269",
+    "author": "アムロ・レイ",
+    "source": "『機動戦士ガンダム』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "殴[なぐ]ったね！ 親父[おやじ]にもぶたれたことないのに！"
+  },
+  {
+    "id": "q270",
+    "author": "アムロ・レイ",
+    "source": "『機動戦士ガンダム 逆襲のシャア』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "エゴだよ、それは！"
+  },
+  {
+    "id": "q271",
+    "author": "次元大介",
+    "source": "『ルパン三世』作品内の台詞",
+    "category": "ことば",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "銃[じゅう]は女[おんな]と一緒[いっしょ]さ…。"
+  },
+  {
+    "id": "q272",
+    "author": "桜遥",
+    "source": "『WIND BREAKER』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "てっぺんまで！"
+  },
+  {
+    "id": "q273",
+    "author": "王騎",
+    "source": "『キングダム』作品内の台詞",
+    "category": "信頼",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "皆[みな]の背[せ]には、常[つね]にこの王[おう]騎[き]がついていますよ。"
+  },
+  {
+    "id": "q274",
+    "author": "サンラク",
+    "source": "『シャングリラ・フロンティア』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "クソゲーほど燃[も]えるものはない。"
+  },
+  {
+    "id": "q275",
+    "author": "カミナ",
+    "source": "『天元突破グレンラガン』作品内の台詞",
+    "category": "友情",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "あばよ、ダチ公[こう]。"
+  },
+  {
+    "id": "q276",
+    "author": "七海建人",
+    "source": "『呪術廻戦』作品内の台詞",
+    "category": "仕事",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "労働[ろうどう]はクソということです！"
+  },
+  {
+    "id": "q277",
+    "author": "ヴァイオレット",
+    "source": "『ヴァイオレット・エヴァーガーデン』作品内の台詞",
+    "category": "愛",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "『愛[いと]してる』を知[し]りたいのです。"
+  },
+  {
+    "id": "q278",
+    "author": "めんま",
+    "source": "『あの日見た花の名前を僕達はまだ知らない。』作品内の台詞",
+    "category": "友情",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "見[み]つかっちゃった。"
+  },
+  {
+    "id": "q279",
+    "author": "岡崎汐",
+    "source": "『CLANNAD AFTER STORY』作品内の台詞",
+    "category": "家族",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "泣[な]いていいのは、おトイレか…パパの胸[むね]の中[なか]だって…。"
+  },
+  {
+    "id": "q280",
+    "author": "ヒンメル",
+    "source": "『葬送のフリーレン』作品内の台詞",
+    "category": "思いやり",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "一番[いちばん]の理由[りゆう]は、君[くん]が未来[みらい]で一人[ひとり]ぼっちにならないようにするためかな。"
+  },
+  {
+    "id": "q281",
+    "author": "宮園かをり",
+    "source": "『四月は君の嘘』作品内の台詞",
+    "category": "記憶",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "君[くん]は忘[わす]れられる？ ――僕[ぼく]と君[くん]が交[まじ]わした旋律[せんりつ]を。"
+  },
+  {
+    "id": "q282",
+    "author": "立花瀧",
+    "source": "『君の名は。』作品内の台詞",
+    "category": "約束",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "お前[まえ]が世界[せかい]のどこにいても、必[かなら]ずもう一度[いちど]会[あ]いに行[い]くって。"
+  },
+  {
+    "id": "q283",
+    "author": "石田将也",
+    "source": "『聲の形』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "君[くん]に生[い]きるのを手伝[てつだ]ってほしい。"
+  },
+  {
+    "id": "q284",
+    "author": "立華奏",
+    "source": "『Angel Beats!』作品内の台詞",
+    "category": "感謝",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "命[いのち]をくれてほんとうにありがとう。"
+  },
+  {
+    "id": "q285",
+    "author": "アイラ",
+    "source": "『プラスティック・メモリーズ』作品内の台詞",
+    "category": "希望",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "大切[たいせつ]な人[にん]と、いつかまた巡[めぐ]り合[あ]えますように。"
+  },
+  {
+    "id": "q286",
+    "author": "有馬かな",
+    "source": "『【推しの子】』作品内の台詞",
+    "category": "挑戦",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "アンタの推[お]しの子[こ]になってやる！"
+  },
+  {
+    "id": "q287",
+    "author": "レム",
+    "source": "『Re:ゼロから始める異世界生活』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "ここから、ゼロから始[はじ]めましょう。"
+  },
+  {
+    "id": "q288",
+    "author": "ヴラディレーナ",
+    "source": "『86―エイティシックス―』作品内の台詞",
+    "category": "記憶",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "忘[わす]れないで。"
+  },
+  {
+    "id": "q289",
+    "author": "森嶋帆高",
+    "source": "『天気の子』作品内の台詞",
+    "category": "愛",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "青空[あおぞら]よりも俺[おれ]は陽菜[はるな]がいい！"
+  },
+  {
+    "id": "q290",
+    "author": "カゲ",
+    "source": "『王様ランキング』作品内の台詞",
+    "category": "友情",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]はこれからどんなことがあってもお前[まえ]の味方[みかた]になりたいんだ。"
+  },
+  {
+    "id": "q291",
+    "author": "アーニャ",
+    "source": "『SPY×FAMILY』作品内の台詞",
+    "category": "家族",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "100てんまんてんです。ちちもははもおもしろくてだいすきです。"
+  },
+  {
+    "id": "q292",
+    "author": "フシ",
+    "source": "『不滅のあなたへ』作品内の台詞",
+    "category": "成長",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "俺[おれ]、グーグーいないと大人[おとな]になれない。"
+  },
+  {
+    "id": "q293",
+    "author": "オカルン",
+    "source": "『ダンダダン』作品内の台詞",
+    "category": "友情",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "ずっと探[さが]してたんですよ、綾瀬[あやせ]さんのことを。"
+  },
+  {
+    "id": "q294",
+    "author": "アシリパ",
+    "source": "『ゴールデンカムイ』作品内の台詞",
+    "category": "思いやり",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "好[す]きな人[にん]には、自分[じぶん]の好[す]きなものを好[す]きになってほしいもんねぇ。"
+  },
+  {
+    "id": "q295",
+    "author": "殺せんせー",
+    "source": "『暗殺教室』作品内の台詞",
+    "category": "感謝",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "私[わたし]の命[いのち]に価値[かち]を与[あた]えてくれたのは君[くん]たちだ。"
+  },
+  {
+    "id": "q296",
+    "author": "陣内栄",
+    "source": "『サマーウォーズ』作品内の台詞",
+    "category": "家族",
+    "sourceUrl": "https://pintotimes.jp/trivia/0136/",
+    "ruby": "いちばんいけないのは、おなかがすいていることと、独[ひと]りでいることだから。"
+  },
+  {
+    "id": "q297",
+    "author": "南波六太",
+    "source": "『宇宙兄弟』11巻・#104の台詞",
+    "category": "失敗",
+    "sourceUrl": "https://gour-map.com/spacebrothers-golden-saying/",
+    "ruby": "失敗[しっぱい]を知[し]って乗[の]り越[こ]えたモノなら、それはいいモノだ。"
+  },
+  {
+    "id": "q298",
+    "author": "南波六太",
+    "source": "『宇宙兄弟』16巻・#157の台詞",
+    "category": "生き方",
+    "sourceUrl": "https://gour-map.com/spacebrothers-golden-saying/",
+    "ruby": "大事[だいじ]なのは結局[けっきょく]…今[いま]だ。"
+  },
+  {
+    "id": "q299",
+    "author": "エドワード・エルリック",
+    "source": "『鋼の錬金術師』作品内の台詞",
+    "category": "覚悟",
+    "sourceUrl": "https://animemanga33.com/archives/59936",
+    "ruby": "降[お]りて来[こ]いよ、ド三流[さんりゅう]！"
+  },
+  {
+    "id": "q300",
+    "author": "エドワード・エルリック",
+    "source": "『鋼の錬金術師』作品内の台詞",
+    "category": "再出発",
+    "sourceUrl": "https://animemanga33.com/archives/59936",
+    "ruby": "立[た]って歩[ある]け、前[まえ]へ進[すす]め。"
   }
 ]

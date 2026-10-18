@@ -39,7 +39,7 @@ const DB_NAME = "kyou-no-meigen-recordings";
 const DB_VERSION = 1;
 const RECORDINGS_STORE = "recordings";
 const TOKYO_TIME_ZONE = "Asia/Tokyo";
-const CONTENT_VERSION = "900cba1";
+const CONTENT_VERSION = "6d8f2b1";
 
 function plainText(rubyText) {
   return rubyText.replace(/\[[^\]]+\]/g, "");
@@ -47,7 +47,7 @@ function plainText(rubyText) {
 
 function renderRuby(element, rubyText) {
   element.replaceChildren();
-  const pattern = /(\p{Script=Han})(?:\[([^\]]+)\])?/gu;
+  const pattern = /((?:\p{Script=Han}|々)+)(?:\[([^\]]+)\])?/gu;
   let cursor = 0;
   let match;
 
