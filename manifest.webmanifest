@@ -1,0 +1,11 @@
+{
+  "name": "今日の名言",
+  "short_name": "今日の名言",
+  "description": "日本語学習者のための、名言音読アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e5",
+  "theme_color": "#8f2f2b",
+  "icons": []
+}

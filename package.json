@@ -1,0 +1,15 @@
+{
+  "name": "kyou-no-meigen",
+  "version": "1.0.0",
+  "description": "日本語学習者のための、今日の名言リーディングアプリ",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "check": "node scripts/check.mjs --require-audio",
+    "check:data": "node scripts/check.mjs",
+    "generate:audio": "node scripts/generate-audio.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "generatedAt": "2026-10-18T02:17:54.076Z",
+  "voice": "ja-JP-Standard-B",
+  "languageCode": "ja-JP",
+  "audioEncoding": "MP3",
+  "speakingRate": 0.92,
+  "auth": "gcloud OAuth",
+  "files": [
+    {
+      "id": "q001",
+      "file": "q001.mp3",
+      "bytes": 38784,
+      "durationSeconds": 4.848,
+      "bitRate": 64000
+    },
+    {
+      "id": "q002",
+      "file": "q002.mp3",
+      "bytes": 10752,
+      "durationSeconds": 1.344,
+      "bitRate": 64000
+    },
+    {
+      "id": "q003",
+      "file": "q003.mp3",
+      "bytes": 36096,
+      "durationSeconds": 4.512,
+      "bitRate": 64000
+    },
+    {
+      "id": "q004",
+      "file": "q004.mp3",
+      "bytes": 28992,
+      "durationSeconds": 3.624,
+      "bitRate": 64000
+    },
+    {
+      "id": "q005",
+      "file": "q005.mp3",
+      "bytes": 31296,
+      "durationSeconds": 3.912,
+      "bitRate": 64000
+    },
+    {
+      "id": "q006",
+      "file": "q006.mp3",
+      "bytes": 45120,
+      "durationSeconds": 5.64,
+      "bitRate": 64000
+    },
+    {
+      "id": "q007",
+      "file": "q007.mp3",
+      "bytes": 34560,
+      "durationSeconds": 4.32,
+      "bitRate": 64000
+    },
+    {
+      "id": "q008",
+      "file": "q008.mp3",
+      "bytes": 35904,
+      "durationSeconds": 4.488,
+      "bitRate": 64000
+    },
+    {
+      "id": "q009",
+      "file": "q009.mp3",
+      "bytes": 42240,
+      "durationSeconds": 5.28,
+      "bitRate": 64000
+    },
+    {
+      "id": "q010",
+      "file": "q010.mp3",
+      "bytes": 23616,
+      "durationSeconds": 2.952,
+      "bitRate": 64000
+    },
+    {
+      "id": "q011",
+      "file": "q011.mp3",
+      "bytes": 51072,
+      "durationSeconds": 6.384,
+      "bitRate": 64000
+    },
+    {
+      "id": "q012",
+      "file": "q012.mp3",
+      "bytes": 45504,
+      "durationSeconds": 5.688,
+      "bitRate": 64000
+    },
+    {
+      "id": "q013",
+      "file": "q013.mp3",
+      "bytes": 59904,
+      "durationSeconds": 7.488,
+      "bitRate": 64000
+    },
+    {
+      "id": "q014",
+      "file": "q014.mp3",
+      "bytes": 63360,
+      "durationSeconds": 7.92,
+      "bitRate": 64000
+    },
+    {
+      "id": "q015",
+      "file": "q015.mp3",
+      "bytes": 28416,
+      "durationSeconds": 3.552,
+      "bitRate": 64000
+    },
+    {
+      "id": "q016",
+      "file": "q016.mp3",
+      "bytes": 40320,
+      "durationSeconds": 5.04,
+      "bitRate": 64000
+    },
+    {
+      "id": "q017",
+      "file": "q017.mp3",
+      "bytes": 34944,
+      "durationSeconds": 4.368,
+      "bitRate": 64000
+    },
+    {
+      "id": "q018",
+      "file": "q018.mp3",
+      "bytes": 14400,
+      "durationSeconds": 1.8,
+      "bitRate": 64000
+    },
+    {
+      "id": "q019",
+      "file": "q019.mp3",
+      "bytes": 34752,
+      "durationSeconds": 4.344,
+      "bitRate": 64000
+    },
+    {
+      "id": "q020",
+      "file": "q020.mp3",
+      "bytes": 24192,
+      "durationSeconds": 3.024,
+      "bitRate": 64000
+    },
+    {
+      "id": "q021",
+      "file": "q021.mp3",
+      "bytes": 27840,
+      "durationSeconds": 3.48,
+      "bitRate": 64000
+    },
+    {
+      "id": "q022",
+      "file": "q022.mp3",
+      "bytes": 18816,
+      "durationSeconds": 2.352,
+      "bitRate": 64000
+    },
+    {
+      "id": "q023",
+      "file": "q023.mp3",
+      "bytes": 18240,
+      "durationSeconds": 2.28,
+      "bitRate": 64000
+    },
+    {
+      "id": "q024",
+      "file": "q024.mp3",
+      "bytes": 15552,
+      "durationSeconds": 1.944,
+      "bitRate": 64000
+    },
+    {
+      "id": "q025",
+      "file": "q025.mp3",
+      "bytes": 26496,
+      "durationSeconds": 3.312,
+      "bitRate": 64000
+    },
+    {
+      "id": "q026",
+      "file": "q026.mp3",
+      "bytes": 11136,
+      "durationSeconds": 1.392,
+      "bitRate": 64000
+    },
+    {
+      "id": "q027",
+      "file": "q027.mp3",
+      "bytes": 27264,
+      "durationSeconds": 3.408,
+      "bitRate": 64000
+    },
+    {
+      "id": "q028",
+      "file": "q028.mp3",
+      "bytes": 21504,
+      "durationSeconds": 2.688,
+      "bitRate": 64000
+    },
+    {
+      "id": "q029",
+      "file": "q029.mp3",
+      "bytes": 17856,
+      "durationSeconds": 2.232,
+      "bitRate": 64000
+    },
+    {
+      "id": "q030",
+      "file": "q030.mp3",
+      "bytes": 15936,
+      "durationSeconds": 1.992,
+      "bitRate": 64000
+    },
+    {
+      "id": "q031",
+      "file": "q031.mp3",
+      "bytes": 13248,
+      "durationSeconds": 1.656,
+      "bitRate": 64000
+    },
+    {
+      "id": "q032",
+      "file": "q032.mp3",
+      "bytes": 26304,
+      "durationSeconds": 3.288,
+      "bitRate": 64000
+    },
+    {
+      "id": "q033",
+      "file": "q033.mp3",
+      "bytes": 22080,
+      "durationSeconds": 2.76,
+      "bitRate": 64000
+    },
+    {
+      "id": "q034",
+      "file": "q034.mp3",
+      "bytes": 10752,
+      "durationSeconds": 1.344,
+      "bitRate": 64000
+    },
+    {
+      "id": "q035",
+      "file": "q035.mp3",
+      "bytes": 22656,
+      "durationSeconds": 2.832,
+      "bitRate": 64000
+    },
+    {
+      "id": "q036",
+      "file": "q036.mp3",
+      "bytes": 19584,
+      "durationSeconds": 2.448,
+      "bitRate": 64000
+    },
+    {
+      "id": "q037",
+      "file": "q037.mp3",
+      "bytes": 10752,
+      "durationSeconds": 1.344,
+      "bitRate": 64000
+    },
+    {
+      "id": "q038",
+      "file": "q038.mp3",
+      "bytes": 17088,
+      "durationSeconds": 2.136,
+      "bitRate": 64000
+    },
+    {
+      "id": "q039",
+      "file": "q039.mp3",
+      "bytes": 13632,
+      "durationSeconds": 1.704,
+      "bitRate": 64000
+    },
+    {
+      "id": "q040",
+      "file": "q040.mp3",
+      "bytes": 22656,
+      "durationSeconds": 2.832,
+      "bitRate": 64000
+    },
+    {
+      "id": "q041",
+      "file": "q041.mp3",
+      "bytes": 14400,
+      "durationSeconds": 1.8,
+      "bitRate": 64000
+    },
+    {
+      "id": "q042",
+      "file": "q042.mp3",
+      "bytes": 18048,
+      "durationSeconds": 2.256,
+      "bitRate": 64000
+    },
+    {
+      "id": "q043",
+      "file": "q043.mp3",
+      "bytes": 15168,
+      "durationSeconds": 1.896,
+      "bitRate": 64000
+    },
+    {
+      "id": "q044",
+      "file": "q044.mp3",
+      "bytes": 17088,
+      "durationSeconds": 2.136,
+      "bitRate": 64000
+    },
+    {
+      "id": "q045",
+      "file": "q045.mp3",
+      "bytes": 19968,
+      "durationSeconds": 2.496,
+      "bitRate": 64000
+    },
+    {
+      "id": "q046",
+      "file": "q046.mp3",
+      "bytes": 12096,
+      "durationSeconds": 1.512,
+      "bitRate": 64000
+    },
+    {
+      "id": "q047",
+      "file": "q047.mp3",
+      "bytes": 18048,
+      "durationSeconds": 2.256,
+      "bitRate": 64000
+    },
+    {
+      "id": "q048",
+      "file": "q048.mp3",
+      "bytes": 18432,
+      "durationSeconds": 2.304,
+      "bitRate": 64000
+    },
+    {
+      "id": "q049",
+      "file": "q049.mp3",
+      "bytes": 18816,
+      "durationSeconds": 2.352,
+      "bitRate": 64000
+    },
+    {
+      "id": "q050",
+      "file": "q050.mp3",
+      "bytes": 18048,
+      "durationSeconds": 2.256,
+      "bitRate": 64000
+    },
+    {
+      "id": "q051",
+      "file": "q051.mp3",
+      "bytes": 13056,
+      "durationSeconds": 1.632,
+      "bitRate": 64000
+    },
+    {
+      "id": "q052",
+      "file": "q052.mp3",
+      "bytes": 19584,
+      "durationSeconds": 2.448,
+      "bitRate": 64000
+    },
+    {
+      "id": "q053",
+      "file": "q053.mp3",
+      "bytes": 19584,
+      "durationSeconds": 2.448,
+      "bitRate": 64000
+    },
+    {
+      "id": "q054",
+      "file": "q054.mp3",
+      "bytes": 19008,
+      "durationSeconds": 2.376,
+      "bitRate": 64000
+    },
+    {
+      "id": "q055",
+      "file": "q055.mp3",
+      "bytes": 15552,
+      "durationSeconds": 1.944,
+      "bitRate": 64000
+    },
+    {
+      "id": "q056",
+      "file": "q056.mp3",
+      "bytes": 22080,
+      "durationSeconds": 2.76,
+      "bitRate": 64000
+    },
+    {
+      "id": "q057",
+      "file": "q057.mp3",
+      "bytes": 21504,
+      "durationSeconds": 2.688,
+      "bitRate": 64000
+    },
+    {
+      "id": "q058",
+      "file": "q058.mp3",
+      "bytes": 20928,
+      "durationSeconds": 2.616,
+      "bitRate": 64000
+    },
+    {
+      "id": "q059",
+      "file": "q059.mp3",
+      "bytes": 20160,
+      "durationSeconds": 2.52,
+      "bitRate": 64000
+    },
+    {
+      "id": "q060",
+      "file": "q060.mp3",
+      "bytes": 16704,
+      "durationSeconds": 2.088,
+      "bitRate": 64000
+    },
+    {
+      "id": "q061",
+      "file": "q061.mp3",
+      "bytes": 19584,
+      "durationSeconds": 2.448,
+      "bitRate": 64000
+    },
+    {
+      "id": "q062",
+      "file": "q062.mp3",
+      "bytes": 51456,
+      "durationSeconds": 6.432,
+      "bitRate": 64000
+    },
+    {
+      "id": "q063",
+      "file": "q063.mp3",
+      "bytes": 23808,
+      "durationSeconds": 2.976,
+      "bitRate": 64000
+    },
+    {
+      "id": "q064",
+      "file": "q064.mp3",
+      "bytes": 56256,
+      "durationSeconds": 7.032,
+      "bitRate": 64000
+    },
+    {
+      "id": "q065",
+      "file": "q065.mp3",
+      "bytes": 50880,
+      "durationSeconds": 6.36,
+      "bitRate": 64000
+    },
+    {
+      "id": "q066",
+      "file": "q066.mp3",
+      "bytes": 43968,
+      "durationSeconds": 5.496,
+      "bitRate": 64000
+    },
+    {
+      "id": "q067",
+      "file": "q067.mp3",
+      "bytes": 38400,
+      "durationSeconds": 4.8,
+      "bitRate": 64000
+    },
+    {
+      "id": "q068",
+      "file": "q068.mp3",
+      "bytes": 30336,
+      "durationSeconds": 3.792,
+      "bitRate": 64000
+    },
+    {
+      "id": "q069",
+      "file": "q069.mp3",
+      "bytes": 28992,
+      "durationSeconds": 3.624,
+      "bitRate": 64000
+    },
+    {
+      "id": "q070",
+      "file": "q070.mp3",
+      "bytes": 41280,
+      "durationSeconds": 5.16,
+      "bitRate": 64000
+    },
+    {
+      "id": "q071",
+      "file": "q071.mp3",
+      "bytes": 32448,
+      "durationSeconds": 4.056,
+      "bitRate": 64000
+    },
+    {
+      "id": "q072",
+      "file": "q072.mp3",
+      "bytes": 25536,
+      "durationSeconds": 3.192,
+      "bitRate": 64000
+    },
+    {
+      "id": "q073",
+      "file": "q073.mp3",
+      "bytes": 26688,
+      "durationSeconds": 3.336,
+      "bitRate": 64000
+    },
+    {
+      "id": "q074",
+      "file": "q074.mp3",
+      "bytes": 23808,
+      "durationSeconds": 2.976,
+      "bitRate": 64000
+    },
+    {
+      "id": "q075",
+      "file": "q075.mp3",
+      "bytes": 25152,
+      "durationSeconds": 3.144,
+      "bitRate": 64000
+    },
+    {
+      "id": "q076",
+      "file": "q076.mp3",
+      "bytes": 25344,
+      "durationSeconds": 3.168,
+      "bitRate": 64000
+    },
+    {
+      "id": "q077",
+      "file": "q077.mp3",
+      "bytes": 26112,
+      "durationSeconds": 3.264,
+      "bitRate": 64000
+    },
+    {
+      "id": "q078",
+      "file": "q078.mp3",
+      "bytes": 25728,
+      "durationSeconds": 3.216,
+      "bitRate": 64000
+    },
+    {
+      "id": "q079",
+      "file": "q079.mp3",
+      "bytes": 28992,
+      "durationSeconds": 3.624,
+      "bitRate": 64000
+    },
+    {
+      "id": "q080",
+      "file": "q080.mp3",
+      "bytes": 24576,
+      "durationSeconds": 3.072,
+      "bitRate": 64000
+    },
+    {
+      "id": "q081",
+      "file": "q081.mp3",
+      "bytes": 13248,
+      "durationSeconds": 1.656,
+      "bitRate": 64000
+    },
+    {
+      "id": "q082",
+      "file": "q082.mp3",
+      "bytes": 10752,
+      "durationSeconds": 1.344,
+      "bitRate": 64000
+    },
+    {
+      "id": "q083",
+      "file": "q083.mp3",
+      "bytes": 11904,
+      "durationSeconds": 1.488,
+      "bitRate": 64000
+    },
+    {
+      "id": "q084",
+      "file": "q084.mp3",
+      "bytes": 12288,
+      "durationSeconds": 1.536,
+      "bitRate": 64000
+    },
+    {
+      "id": "q085",
+      "file": "q085.mp3",
+      "bytes": 38784,
+      "durationSeconds": 4.848,
+      "bitRate": 64000
+    },
+    {
+      "id": "q086",
+      "file": "q086.mp3",
+      "bytes": 41280,
+      "durationSeconds": 5.16,
+      "bitRate": 64000
+    },
+    {
+      "id": "q087",
+      "file": "q087.mp3",
+      "bytes": 32640,
+      "durationSeconds": 4.08,
+      "bitRate": 64000
+    },
+    {
+      "id": "q088",
+      "file": "q088.mp3",
+      "bytes": 17088,
+      "durationSeconds": 2.136,
+      "bitRate": 64000
+    },
+    {
+      "id": "q089",
+      "file": "q089.mp3",
+      "bytes": 46272,
+      "durationSeconds": 5.784,
+      "bitRate": 64000
+    },
+    {
+      "id": "q090",
+      "file": "q090.mp3",
+      "bytes": 25728,
+      "durationSeconds": 3.216,
+      "bitRate": 64000
+    },
+    {
+      "id": "q091",
+      "file": "q091.mp3",
+      "bytes": 16320,
+      "durationSeconds": 2.04,
+      "bitRate": 64000
+    },
+    {
+      "id": "q092",
+      "file": "q092.mp3",
+      "bytes": 24000,
+      "durationSeconds": 3,
+      "bitRate": 64000
+    },
+    {
+      "id": "q093",
+      "file": "q093.mp3",
+      "bytes": 45504,
+      "durationSeconds": 5.688,
+      "bitRate": 64000
+    },
+    {
+      "id": "q094",
+      "file": "q094.mp3",
+      "bytes": 22656,
+      "durationSeconds": 2.832,
+      "bitRate": 64000
+    },
+    {
+      "id": "q095",
+      "file": "q095.mp3",
+      "bytes": 22464,
+      "durationSeconds": 2.808,
+      "bitRate": 64000
+    },
+    {
+      "id": "q096",
+      "file": "q096.mp3",
+      "bytes": 19968,
+      "durationSeconds": 2.496,
+      "bitRate": 64000
+    },
+    {
+      "id": "q097",
+      "file": "q097.mp3",
+      "bytes": 21120,
+      "durationSeconds": 2.64,
+      "bitRate": 64000
+    },
+    {
+      "id": "q098",
+      "file": "q098.mp3",
+      "bytes": 20352,
+      "durationSeconds": 2.544,
+      "bitRate": 64000
+    },
+    {
+      "id": "q099",
+      "file": "q099.mp3",
+      "bytes": 24768,
+      "durationSeconds": 3.096,
+      "bitRate": 64000
+    },
+    {
+      "id": "q100",
+      "file": "q100.mp3",
+      "bytes": 25536,
+      "durationSeconds": 3.192,
+      "bitRate": 64000
+    }
+  ]
+}

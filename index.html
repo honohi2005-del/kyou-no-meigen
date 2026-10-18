@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#8f2f2b">
+    <meta name="description" content="日本語学習者のための、名言音読アプリ。">
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="stylesheet" href="./styles.css">
+    <title>今日の名言</title>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="今日の名言 ホーム">
+          <span class="brand-mark" aria-hidden="true">言</span>
+          <span>
+            <span class="eyebrow">Japanese reading practice</span>
+            <span class="brand-title">今日の名言</span>
+          </span>
+        </a>
+        <p class="header-note">一日一文、声に出して読む。</p>
+      </header>
+
+      <main>
+        <section class="hero-grid" aria-labelledby="today-heading">
+          <article class="quote-card" id="today-card">
+            <div class="quote-card-topline">
+              <span class="section-label">TODAY'S QUOTE</span>
+              <span class="quote-number" id="quote-number">—</span>
+            </div>
+            <p class="quote-category" id="quote-category">読み込み中</p>
+            <h1 id="today-heading" class="sr-only">今日の名言</h1>
+            <blockquote id="quote-text" class="quote-text">
+              名言を読み込んでいます。
+            </blockquote>
+            <div class="quote-meta">
+              <p class="quote-author" id="quote-author"></p>
+              <a id="quote-source" class="source-link" href="#" target="_blank" rel="noreferrer noopener"></a>
+            </div>
+            <div class="quote-actions">
+              <button id="play-quote" class="primary-button" type="button" disabled>
+                <span class="button-icon" aria-hidden="true">▶</span>
+                <span>音声を聴く</span>
+              </button>
+              <span id="audio-status" class="action-status" role="status"></span>
+            </div>
+            <audio id="quote-audio" preload="auto"></audio>
+          </article>
+
+          <aside class="practice-card" aria-labelledby="practice-heading">
+            <div class="practice-card-header">
+              <span class="section-label">READ ALOUD</span>
+              <span class="record-dot" aria-hidden="true"></span>
+            </div>
+            <h2 id="practice-heading">あなたの音読</h2>
+            <p class="practice-intro">お手本を聴いたら、同じ一文を読んでみましょう。</p>
+            <button id="record-button" class="record-button" type="button" disabled>
+              <span class="record-button-icon" aria-hidden="true"></span>
+              <span id="record-button-label">録音を始める</span>
+            </button>
+            <div class="recording-readout" aria-live="polite">
+              <span id="recording-time">00:00</span>
+              <span id="recording-status">準備中</span>
+            </div>
+            <audio id="student-audio" class="student-audio" controls hidden></audio>
+            <div class="recording-actions" id="recording-actions" hidden>
+              <button id="delete-recording" class="text-button" type="button">録音を削除</button>
+            </div>
+            <p class="privacy-note">録音はこのブラウザ内だけに保存されます。サーバーには送信しません。</p>
+          </aside>
+        </section>
+
+        <section class="library-section" aria-labelledby="library-heading">
+          <div class="library-heading">
+            <div>
+              <span class="section-label">QUOTE LIBRARY</span>
+              <h2 id="library-heading">名言を探す</h2>
+            </div>
+            <span id="quote-count" class="quote-count">—</span>
+          </div>
+          <label class="search-box">
+            <span class="sr-only">名言を検索</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="quote-search" type="search" placeholder="言葉・人物・出典で検索" autocomplete="off">
+          </label>
+          <div id="quote-list" class="quote-list" aria-live="polite"></div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <p>今日の名言 — 日本語を、意味と音で味わう。</p>
+        <p class="footer-small">名言の出典は各項目のリンク先と表示された典拠をご確認ください。</p>
+      </footer>
+    </div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

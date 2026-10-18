@@ -1,0 +1,802 @@
+[
+  {
+    "id": "q001",
+    "ruby": "学[まな]びて時[とき]に之[これ]を習[なら]う、亦[ま]た説[よろこ]ばしからずや。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』学而",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q002",
+    "ruby": "温[おん]故[こ]知[ち]新[しん]。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』為政",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q003",
+    "ruby": "己[おのれ]の欲[ほっ]せざる所[ところ]、人[ひと]に施[ほどこ]すこと勿[なか]れ。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』衛霊公",
+    "category": "人との関わり",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q004",
+    "ruby": "三[さん]人[にん]行[おこな]えば、必[かなら]ず我[わ]が師[し]有[あ]り。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』述而",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q005",
+    "ruby": "過[あやま]ちて改[あらた]めざる、是[これ]を過[あやま]ちと謂[い]う。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』衛霊公",
+    "category": "成長",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q006",
+    "ruby": "知[し]るを知[し]ると為[な]し、知[し]らざるを知[し]らずと為[な]す、是[こ]れ知[し]るなり。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』為政",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q007",
+    "ruby": "朝[あした]に道[みち]を聞[き]かば、夕[ゆう]べに死[し]すとも可[か]なり。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』里仁",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q008",
+    "ruby": "君[くん]子[し]は和[わ]して同[どう]ぜず、小[しょう]人[じん]は同[どう]じて和[わ]せず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子路",
+    "category": "人との関わり",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q009",
+    "ruby": "知[ち]者[しゃ]は惑[まど]わず、仁[じん]者[しゃ]は憂[うれ]えず、勇[ゆう]者[しゃ]は懼[おそ]れず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子罕",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q010",
+    "ruby": "巧[こう]言[げん]令[れい]色[しょく]、鮮[すく]なし仁[じん]。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』学而",
+    "category": "人との関わり",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q011",
+    "ruby": "学[まな]びて思[おも]わざれば則[すなわ]ち罔[くら]し、思[おも]いて学[まな]ばざれば則[すなわ]ち殆[あやう]し。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』為政",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q012",
+    "ruby": "歳[とし]寒[さむ]くして、然[しか]る後[のち]に松[しょう]柏[はく]の彫[しぼ]むに後[おく]るるを知[し]る。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子罕",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q013",
+    "ruby": "其[そ]の身[み]正[ただ]しければ令[れい]せずして行[おこな]われ、其[そ]の身[み]正[ただ]しからざれば令[れい]すといえども従[したが]わず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子路",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q014",
+    "ruby": "之[これ]を知[し]る者[もの]は之[これ]を好[この]む者[もの]に如[し]かず、之[これ]を好[この]む者[もの]は之[これ]を楽[たの]しむ者[もの]に如[し]かず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』雍也",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q015",
+    "ruby": "君[くん]子[し]坦[たん]蕩[とう]蕩[とう]、小[しょう]人[じん]長[ちょう]戚[せき]戚[せき]。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』述而",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q016",
+    "ruby": "仁[じん]遠[とお]からんや、我[わ]れ仁[じん]を欲[ほっ]すれば斯[ここ]に仁[じん]至[いた]る。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』述而",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q017",
+    "ruby": "知[ち]者[しゃ]は水[みず]を楽[たの]しみ、仁[じん]者[しゃ]は山[やま]を楽[たの]しむ。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』雍也",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q018",
+    "ruby": "後[こう]生[せい]畏[おそ]るべし。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子罕",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q019",
+    "ruby": "逝[ゆ]く者[もの]は斯[か]くの如[ごと]きか、昼[ちゅう]夜[や]を舎[お]かず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』子罕",
+    "category": "時間",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q020",
+    "ruby": "天[てん]を怨[うら]みず、人[ひと]を尤[とが]めず。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』憲問",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q021",
+    "ruby": "千[せん]里[り]の行[こう]も、足[あし]下[もと]より始[はじ]まる。",
+    "author": "老子とされる言葉",
+    "source": "『老子道徳経』",
+    "category": "一歩",
+    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+  },
+  {
+    "id": "q022",
+    "ruby": "上[じょう]善[ぜん]は水[みず]の若[ごと]し。",
+    "author": "老子とされる言葉",
+    "source": "『老子道徳経』",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+  },
+  {
+    "id": "q023",
+    "ruby": "足[た]るを知[し]る者[もの]は富[と]む。",
+    "author": "老子とされる言葉",
+    "source": "『老子道徳経』",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+  },
+  {
+    "id": "q024",
+    "ruby": "大[たい]器[き]は晩[ばん]成[せい]す。",
+    "author": "老子とされる言葉",
+    "source": "『老子道徳経』",
+    "category": "成長",
+    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+  },
+  {
+    "id": "q025",
+    "ruby": "知[し]る者[もの]は言[い]わず、言[い]う者[もの]は知[し]らず。",
+    "author": "老子とされる言葉",
+    "source": "『老子道徳経』",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+  },
+  {
+    "id": "q026",
+    "ruby": "明[めい]鏡[きょう]止[し]水[すい]。",
+    "author": "荘子とされる言葉",
+    "source": "『荘子』",
+    "category": "心",
+    "sourceUrl": "https://ja.wikisource.org/wiki/荘子"
+  },
+  {
+    "id": "q027",
+    "ruby": "井[い]の中[なか]の蛙[かわず]、大[たい]海[かい]を知[し]らず。",
+    "author": "荘子に由来するとされる言葉",
+    "source": "『荘子』秋水",
+    "category": "視野",
+    "sourceUrl": "https://ja.wikisource.org/wiki/荘子"
+  },
+  {
+    "id": "q028",
+    "ruby": "人[じん]間[かん]万[ばん]事[じ]塞[さい]翁[おう]が馬[うま]。",
+    "author": "故事成語",
+    "source": "『淮南子』人間訓",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/淮南子"
+  },
+  {
+    "id": "q029",
+    "ruby": "百[ひゃく]聞[ぶん]は一[いっ]見[けん]に如[し]かず。",
+    "author": "故事成語",
+    "source": "『漢書』趙充国伝",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/漢書"
+  },
+  {
+    "id": "q030",
+    "ruby": "先[ま]ず隗[かい]より始[はじ]めよ。",
+    "author": "故事成語",
+    "source": "『戦国策』燕策",
+    "category": "一歩",
+    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
+  },
+  {
+    "id": "q031",
+    "ruby": "蛇[だ]足[そく]を加[くわ]う。",
+    "author": "故事成語",
+    "source": "『戦国策』斉策",
+    "category": "ことば",
+    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
+  },
+  {
+    "id": "q032",
+    "ruby": "楚[そ]人[じん]に盾[たて]と矛[ほこ]とを鬻[ひさ]ぐ者[もの]有[あ]り。",
+    "author": "故事成語",
+    "source": "『韓非子』難勢",
+    "category": "ことば",
+    "sourceUrl": "https://ja.wikisource.org/wiki/韓非子"
+  },
+  {
+    "id": "q033",
+    "ruby": "玉[たま]磨[みが]かざれば光[ひかり]なし。",
+    "author": "古典に基づく言葉",
+    "source": "『礼記』学記",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/礼記"
+  },
+  {
+    "id": "q034",
+    "ruby": "切[せつ]磋[さ]琢[たく]磨[ま]。",
+    "author": "古典に基づく言葉",
+    "source": "『詩経』衛風",
+    "category": "学び",
+    "sourceUrl": "https://ja.wikisource.org/wiki/詩経"
+  },
+  {
+    "id": "q035",
+    "ruby": "一[いっ]寸[すん]の光[こう]陰[いん]軽[かろ]んずべからず。",
+    "author": "朱熹の詩に基づく言葉",
+    "source": "朱熹『偶成』",
+    "category": "時間",
+    "sourceUrl": "https://ja.wikisource.org/wiki/偶成_(朱熹)"
+  },
+  {
+    "id": "q036",
+    "ruby": "和[わ]を以[もっ]て貴[とうと]しとなす。",
+    "author": "聖徳太子とされる言葉",
+    "source": "『十七条憲法』第一条",
+    "category": "人との関わり",
+    "sourceUrl": "https://ja.wikisource.org/wiki/十七条憲法"
+  },
+  {
+    "id": "q037",
+    "ruby": "一[いち]期[ご]一[いち]会[え]。",
+    "author": "井伊直弼の茶道論に基づく言葉",
+    "source": "『茶湯一会集』",
+    "category": "出会い",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q038",
+    "ruby": "初[しょ]心[しん]忘[わす]るべからず。",
+    "author": "世阿弥の言葉",
+    "source": "『花鏡』",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q039",
+    "ruby": "日[ひ]々[び]是[こ]好[よ]日[ひ]。",
+    "author": "禅語",
+    "source": "『碧巌録』",
+    "category": "心",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q040",
+    "ruby": "百[ひゃく]尺[しゃく]竿[かん]頭[とう]一[いっ]歩[ぽ]を進[すす]む。",
+    "author": "禅語",
+    "source": "『景徳伝灯録』",
+    "category": "一歩",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q041",
+    "ruby": "七[なな]転[ころ]び八[や]起[お]き。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "挑戦",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q042",
+    "ruby": "石[いし]の上[うえ]にも三[さん]年[ねん]。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q043",
+    "ruby": "継[けい]続[ぞく]は力[ちから]なり。",
+    "author": "近代の標語とされる言葉",
+    "source": "日本の標語",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q044",
+    "ruby": "雨[あめ]垂[だ]れ石[いし]を穿[うが]つ。",
+    "author": "故事成語",
+    "source": "『漢書』枚乗伝",
+    "category": "継続",
+    "sourceUrl": "https://ja.wikisource.org/wiki/漢書"
+  },
+  {
+    "id": "q045",
+    "ruby": "塵[ちり]も積[つ]もれば山[やま]となる。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q046",
+    "ruby": "急[いそ]がば回[まわ]れ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q047",
+    "ruby": "笑[わら]う門[かど]には福[ふく]来[き]たる。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "心",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q048",
+    "ruby": "良[りょう]薬[やく]は口[くち]に苦[にが]し。",
+    "author": "故事成語",
+    "source": "『史記』留侯世家",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q049",
+    "ruby": "情[なさ]けは人[ひと]のためならず。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "人との関わり",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q050",
+    "ruby": "好[す]きこそ物[もの]の上[じょう]手[ず]なれ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "学び",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q051",
+    "ruby": "習[なら]うより慣[な]れよ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "学び",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q052",
+    "ruby": "早[はや]起[お]きは三[さん]文[もん]の徳[とく]。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生活",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q053",
+    "ruby": "災[わざわ]い転[てん]じて福[ふく]となす。",
+    "author": "故事成語",
+    "source": "『戦国策』燕策",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
+  },
+  {
+    "id": "q054",
+    "ruby": "念[ねん]には念[ねん]を入[い]れよ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "学び",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q055",
+    "ruby": "類[るい]は友[とも]を呼[よ]ぶ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "人との関わり",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q056",
+    "ruby": "能[のう]ある鷹[たか]は爪[つめ]を隠[かく]す。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q057",
+    "ruby": "身[み]を捨[す]ててこそ浮[う]かぶ瀬[せ]もあれ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "挑戦",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q058",
+    "ruby": "ならぬ堪[かん]忍[にん]するが堪[かん]忍[にん]。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q059",
+    "ruby": "明[あ]日[し]は明[あ]日[し]の風[かぜ]が吹[ふ]く。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q060",
+    "ruby": "まかぬ種[たね]は生[は]えぬ。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "行動",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q061",
+    "ruby": "失[しっ]敗[ぱい]は成[せい]功[こう]のもと。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "挑戦",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q062",
+    "ruby": "人[ひと]の一[いっ]生[しょう]は重[おも]荷[に]を負[お]うて遠[とお]き道[みち]をゆくがごとし、急[いそ]ぐべからず。",
+    "author": "徳川家康の遺訓とされる言葉",
+    "source": "徳川家康遺訓",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q063",
+    "ruby": "及[およ]ばざるは過[す]ぎたるより勝[まさ]れり。",
+    "author": "徳川家康の遺訓とされる言葉",
+    "source": "徳川家康遺訓",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q064",
+    "ruby": "人[ひと]は城[しろ]、人[ひと]は石[いし]垣[がき]、人[ひと]は堀[ほり]、情[なさ]けは味[み]方[かた]、仇[あだ]は敵[てき]なり。",
+    "author": "武田信玄とされる言葉",
+    "source": "武田信玄の言葉とされる句",
+    "category": "人との関わり",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q065",
+    "ruby": "なせば成[な]る、なさねば成[な]らぬ何[なに]事[ごと]も、成[な]らぬは人[ひと]のなさぬなりけり。",
+    "author": "上杉鷹山の歌",
+    "source": "上杉鷹山の言葉とされる歌",
+    "category": "行動",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q066",
+    "ruby": "天[てん]は人[ひと]の上[うえ]に人[ひと]を造[つく]らず、人[ひと]の下[した]に人[ひと]を造[つく]らず。",
+    "author": "福沢諭吉",
+    "source": "『学問のすゝめ』",
+    "category": "学び",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q067",
+    "ruby": "独[どく]立[りつ]の気[き]力[りょく]なき者[もの]は、必[かなら]ず人[ひと]に依[い]頼[らい]す。",
+    "author": "福沢諭吉",
+    "source": "『学問のすゝめ』",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q068",
+    "ruby": "世[よ]に生[せい]を得[え]るは、事[こと]を成[な]すにあり。",
+    "author": "坂本龍馬の言葉とされる句",
+    "source": "坂本龍馬の書簡等に伝わる言葉",
+    "category": "行動",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q069",
+    "ruby": "日[に]本[ほん]を今[いま]一[いま]度[ど]せんたくいたし申[もう]候[そうろう]。",
+    "author": "坂本龍馬",
+    "source": "坂本龍馬の書簡",
+    "category": "行動",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q070",
+    "ruby": "夢[ゆめ]なき者[もの]に理[り]想[そう]なし、理[り]想[そう]なき者[もの]に計[けい]画[かく]なし。",
+    "author": "吉田松陰の言葉とされる句",
+    "source": "吉田松陰の言葉とされる句",
+    "category": "目標",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q071",
+    "ruby": "志[こころざし]を立[た]てて以[もっ]て万[ばん]事[じ]の源[みなもと]となす。",
+    "author": "吉田松陰",
+    "source": "吉田松陰の言葉",
+    "category": "目標",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q072",
+    "ruby": "古[ふる]池[いけ]や蛙[かわず]飛[と]びこむ水[みず]の音[おと]。",
+    "author": "松尾芭蕉",
+    "source": "俳句『古池や』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q073",
+    "ruby": "閑[しず]さや岩[いわ]にしみ入[い]る蝉[せみ]の声[こえ]。",
+    "author": "松尾芭蕉",
+    "source": "俳句『閑さや』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q074",
+    "ruby": "夏[なつ]草[くさ]や兵[つわもの]どもが夢[ゆめ]の跡[あと]。",
+    "author": "松尾芭蕉",
+    "source": "俳句『夏草や』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q075",
+    "ruby": "柿[かき]食[く]えば鐘[かね]が鳴[な]るなり法[ほう]隆[りゅう]寺[じ]。",
+    "author": "正岡子規",
+    "source": "俳句『柿くへば』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q076",
+    "ruby": "春[はる]の海[うみ]ひねもすのたりのたりかな。",
+    "author": "与謝蕪村",
+    "source": "俳句『春の海』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q077",
+    "ruby": "やれ打[う]つな蝿[はえ]が手[て]をすり足[あし]をする。",
+    "author": "小林一茶",
+    "source": "俳句",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q078",
+    "ruby": "我[わ]と来[き]て遊[あそ]べや親[おや]のない雀[すずめ]。",
+    "author": "小林一茶",
+    "source": "俳句",
+    "category": "人との関わり",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q079",
+    "ruby": "雀[すずめ]の子[こ]そこのけそこのけお馬[うま]が通[とお]る。",
+    "author": "小林一茶",
+    "source": "俳句",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q080",
+    "ruby": "露[つゆ]の世[よ]は露[つゆ]の世[よ]ながらさりながら。",
+    "author": "小林一茶",
+    "source": "句",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q081",
+    "ruby": "春[はる]はあけぼの。",
+    "author": "清少納言",
+    "source": "『枕草子』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q082",
+    "ruby": "夏[なつ]は夜[よる]。",
+    "author": "清少納言",
+    "source": "『枕草子』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q083",
+    "ruby": "秋[あき]は夕[ゆう]暮[ぐ]れ。",
+    "author": "清少納言",
+    "source": "『枕草子』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q084",
+    "ruby": "冬[ふゆ]はつとめて。",
+    "author": "清少納言",
+    "source": "『枕草子』",
+    "category": "自然",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q085",
+    "ruby": "祇[ぎ]園[おん]精[しょう]舎[じゃ]の鐘[かね]の声[こえ]、諸[しょ]行[ぎょう]無[む]常[じょう]の響[ひび]きあり。",
+    "author": "『平家物語』",
+    "source": "『平家物語』冒頭",
+    "category": "時間",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q086",
+    "ruby": "ゆく河[かわ]の流[なが]れは絶[た]えずして、しかももとの水[みず]にあらず。",
+    "author": "鴨長明",
+    "source": "『方丈記』冒頭",
+    "category": "時間",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q087",
+    "ruby": "国[くに]境[ざかい]の長[なが]いトンネルを抜[ぬ]けると雪[ゆき]国[ぐに]であった。",
+    "author": "川端康成",
+    "source": "『雪国』冒頭",
+    "category": "文学",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q088",
+    "ruby": "吾[わ]輩[がはい]は猫[ねこ]である。",
+    "author": "夏目漱石",
+    "source": "『吾輩は猫である』冒頭",
+    "category": "文学",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q089",
+    "ruby": "坊[ぼっ]ちゃんは親[おや]譲[ゆず]りの無[む]鉄[てっ]砲[ぽう]で小[こ]供[ども]の時[とき]から損[そん]ばかりしている。",
+    "author": "夏目漱石",
+    "source": "『坊っちゃん』冒頭",
+    "category": "文学",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q090",
+    "ruby": "恥[は]の多[おお]い生[しょう]涯[がい]を送[おく]って来[き]ました。",
+    "author": "太宰治",
+    "source": "『人間失格』冒頭",
+    "category": "文学",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q091",
+    "ruby": "生[う]まれて、すみません。",
+    "author": "太宰治",
+    "source": "太宰治の言葉として知られる句",
+    "category": "文学",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q092",
+    "ruby": "雨[あめ]ニモマケズ、風[かぜ]ニモマケズ。",
+    "author": "宮沢賢治",
+    "source": "『雨ニモマケズ』",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q093",
+    "ruby": "世[せ]界[かい]がぜんたい幸[こう]福[ふく]にならないうちは個[こ]人[じん]の幸[こう]福[ふく]は有[あ]り得[え]ない。",
+    "author": "宮沢賢治",
+    "source": "『農民芸術概論綱要』",
+    "category": "人との関わり",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q094",
+    "ruby": "人[じん]間[かん]到[いた]る処[ところ]青[せい]山[ざん]あり。",
+    "author": "月性",
+    "source": "漢詩『将東遊題壁』",
+    "category": "旅立ち",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q095",
+    "ruby": "花[はな]は桜[さくら]木[ぎ]、人[ひと]は武[ぶ]士[し]。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q096",
+    "ruby": "武[ぶ]士[し]は食[く]わねど高[たか]楊[よう]枝[じ]。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q097",
+    "ruby": "命[いのち]に過[す]ぎたる宝[たから]なし。",
+    "author": "ことわざ",
+    "source": "日本のことわざ",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q098",
+    "ruby": "衣[い]食[しょく]足[た]りて礼[れい]節[せつ]を知[し]る。",
+    "author": "管仲とされる言葉",
+    "source": "『管子』牧民",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q099",
+    "ruby": "過[す]ぎたるは猶[なお]及[およ]ばざるが如[ごと]し。",
+    "author": "孔子とされる言葉",
+    "source": "『論語』先進",
+    "category": "生き方",
+    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+  },
+  {
+    "id": "q100",
+    "ruby": "天[てん]は自[みずか]ら助[たす]くる者[もの]を助[たす]く。",
+    "author": "中村正直による訳語として知られる言葉",
+    "source": "『西国立志編』",
+    "category": "行動",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  }
+]
