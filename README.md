@@ -7,7 +7,7 @@
 - 100件の名言から、東京の日付を基準に今日の一件を表示
 - 漢字にルビを付けて表示
 - 出典と人物・作品名を確認
-- Google Cloud Text-to-Speechで事前生成したMP3を再生
+- Google Cloud Text-to-Speechで事前生成した男性音声のMP3を再生
 - 学習者の音読をブラウザ内に保存・再生・削除
 - キーワードで名言を検索し、特定の名言を開く
 
@@ -23,7 +23,7 @@ file: URLでは音声・JSON・Service Workerの動作確認が制限される�
 
 ## 音声生成
 
-音声ファイルは audio/ に置き、GitHub Pagesから静的配信します。生成スクリプトは、まず GOOGLE_TTS_API_KEY または GOOGLE_API_KEY を使い、利用できない場合は gcloud のOAuthアクセストークンへフォールバックします。
+音声ファイルは audio/ に置き、GitHub Pagesから静的配信します。既定の音声はGoogle Cloud Text-to-Speechの日本語男性音声 `ja-JP-Standard-C` です。生成スクリプトは、まず GOOGLE_TTS_API_KEY または GOOGLE_API_KEY を使い、利用できない場合は gcloud のOAuthアクセストークンへフォールバックします。女性音声を指定した生成は検査で受け付けません。
 
 ~~~powershell
 gcloud auth login

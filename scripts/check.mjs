@@ -116,6 +116,21 @@ if (!Array.isArray(manifest.files)) {
   process.exit(1);
 }
 
+const maleVoices = new Set([
+  "ja-JP-Standard-C",
+  "ja-JP-Standard-D",
+  "ja-JP-Neural2-C",
+  "ja-JP-Neural2-D",
+  "ja-JP-Wavenet-C",
+  "ja-JP-Wavenet-D",
+]);
+if (manifest.voiceGender !== "MALE" || !maleVoices.has(manifest.voice)) {
+  fail("埋め込み音声が男性の日本語音声ではありません: " + (manifest.voice || "音声名なし"));
+}
+if (manifest.languageCode !== "ja-JP") {
+  fail("音声の言語コードがja-JPではありません: " + (manifest.languageCode || "言語コードなし"));
+}
+
 const manifestIds = new Set(manifest.files.map((file) => file?.id));
 for (const quote of quotes) {
   if (!manifestIds.has(quote.id)) {

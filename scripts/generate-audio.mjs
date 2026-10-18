@@ -9,10 +9,24 @@ const DATA_PATH = path.join(ROOT, "data", "quotes.json");
 const AUDIO_DIR = path.join(ROOT, "audio");
 const API_URL = "https://texttospeech.googleapis.com/v1/text:synthesize";
 const LANGUAGE_CODE = process.env.GOOGLE_TTS_LANGUAGE || "ja-JP";
-const VOICE_NAME = process.env.GOOGLE_TTS_VOICE || "ja-JP-Standard-B";
+const VOICE_NAME = process.env.GOOGLE_TTS_VOICE || "ja-JP-Standard-C";
+const MALE_JA_VOICES = new Set([
+  "ja-JP-Standard-C",
+  "ja-JP-Standard-D",
+  "ja-JP-Neural2-C",
+  "ja-JP-Neural2-D",
+  "ja-JP-Wavenet-C",
+  "ja-JP-Wavenet-D",
+]);
 const SPEAKING_RATE = Number(process.env.GOOGLE_TTS_SPEAKING_RATE || "0.92");
 const FORCE_AUDIO = process.env.FORCE_AUDIO === "1";
 let apiKeyUnavailable = false;
+
+if (LANGUAGE_CODE !== "ja-JP" || !MALE_JA_VOICES.has(VOICE_NAME)) {
+  throw new Error(
+    "男性の日本語音声を使うため、GOOGLE_TTS_LANGUAGE=ja-JPと、男性音声（例: ja-JP-Standard-C）を指定してください。",
+  );
+}
 
 function plainText(rubyText) {
   return rubyText.replace(/\[[^\]]+\]/g, "");
@@ -208,6 +222,7 @@ await writeFile(
     {
       generatedAt: new Date().toISOString(),
       voice: VOICE_NAME,
+      voiceGender: "MALE",
       languageCode: LANGUAGE_CODE,
       audioEncoding: "MP3",
       speakingRate: SPEAKING_RATE,

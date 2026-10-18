@@ -1,802 +1,802 @@
 [
   {
     "id": "q001",
-    "ruby": "学[まな]びて時[とき]に之[これ]を習[なら]う、亦[ま]た説[よろこ]ばしからずや。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』学而",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "失[しっ]敗[ぱい]したところでやめてしまうから失[しっ]敗[ぱい]になる。成[せい]功[こう]するところまで続[つづ]ければ、それは成[せい]功[こう]になる。",
+    "author": "松下幸之助",
+    "source": "『道をひらく』所収の言葉",
+    "category": "継続",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q002",
-    "ruby": "温[おん]故[こ]知[ち]新[しん]。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』為政",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "志[こころざし]を立[た]てるのに、老[お]いも若[わか]きもない。",
+    "author": "松下幸之助",
+    "source": "『道をひらく』所収の言葉",
+    "category": "挑戦",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q003",
-    "ruby": "己[おのれ]の欲[ほっ]せざる所[ところ]、人[ひと]に施[ほどこ]すこと勿[なか]れ。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』衛霊公",
-    "category": "人との関わり",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "人[にん]間[げん]は、みなそれぞれに違[ちが]った天[てん]分[ぶん]を持[も]っている。",
+    "author": "松下幸之助",
+    "source": "『道をひらく』所収の言葉",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q004",
-    "ruby": "三[さん]人[にん]行[おこな]えば、必[かなら]ず我[わ]が師[し]有[あ]り。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』述而",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "商[しょう]売[ばい]とは、感[かん]動[どう]を与[あた]えることである。",
+    "author": "松下幸之助",
+    "source": "松下幸之助の商売観",
+    "category": "仕事",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q005",
-    "ruby": "過[あやま]ちて改[あらた]めざる、是[これ]を過[あやま]ちと謂[い]う。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』衛霊公",
-    "category": "成長",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "素[す]直[なお]な心[こころ]とは、何[なに]ものにもとらわれない、融[ゆう]通[ずう]無[む]碍[げ]の心[こころ]である。",
+    "author": "松下幸之助",
+    "source": "『素直な心になるために』所収の言葉",
+    "category": "心の持ち方",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q006",
-    "ruby": "知[し]るを知[し]ると為[な]し、知[し]らざるを知[し]らずと為[な]す、是[こ]れ知[し]るなり。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』為政",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "一[いち]日[にち]一[いち]日[にち]を、人[じん]生[せい]最[さい]後[ご]の一[いち]日[にち]と思[おも]って生[い]きる。",
+    "author": "松下幸之助",
+    "source": "松下幸之助の人生訓",
+    "category": "生き方",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q007",
-    "ruby": "朝[あした]に道[みち]を聞[き]かば、夕[ゆう]べに死[し]すとも可[か]なり。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』里仁",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "知[ち]恵[え]は無[む]限[げん]にある。",
+    "author": "松下幸之助",
+    "source": "『道をひらく』所収の言葉",
+    "category": "知恵",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q008",
-    "ruby": "君[くん]子[し]は和[わ]して同[どう]ぜず、小[しょう]人[じん]は同[どう]じて和[わ]せず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子路",
-    "category": "人との関わり",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "人[にん]間[げん]の知[ち]恵[え]には限[かぎ]りがある。",
+    "author": "松下幸之助",
+    "source": "松下幸之助の人生訓",
+    "category": "知恵",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q009",
-    "ruby": "知[ち]者[しゃ]は惑[まど]わず、仁[じん]者[しゃ]は憂[うれ]えず、勇[ゆう]者[しゃ]は懼[おそ]れず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子罕",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "仕[し]事[ごと]は人[にん]間[げん]を成[せい]長[ちょう]させる。",
+    "author": "松下幸之助",
+    "source": "松下幸之助の仕事観",
+    "category": "仕事",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q010",
-    "ruby": "巧[こう]言[げん]令[れい]色[しょく]、鮮[すく]なし仁[じん]。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』学而",
-    "category": "人との関わり",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "運[うん]命[めい]は自[じ]分[ぶん]の力[ちから]で切[き]りひらくものである。",
+    "author": "松下幸之助",
+    "source": "松下幸之助の人生訓",
+    "category": "生き方",
+    "sourceUrl": "https://www.konosuke-matsushita.com/adages/"
   },
   {
     "id": "q011",
-    "ruby": "学[まな]びて思[おも]わざれば則[すなわ]ち罔[くら]し、思[おも]いて学[まな]ばざれば則[すなわ]ち殆[あやう]し。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』為政",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "やってみもせんで、何[なに]をいってる。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の挑戦についての言葉",
+    "category": "挑戦",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q012",
-    "ruby": "歳[とし]寒[さむ]くして、然[しか]る後[のち]に松[しょう]柏[はく]の彫[しぼ]むに後[おく]るるを知[し]る。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子罕",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "成[せい]功[こう]は九[きゅう]十[じゅう]九[きゅう]パーセントの失[しっ]敗[ぱい]に支[ささ]えられた一[いっ]パーセントだ。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の成功観として伝わる言葉",
+    "category": "失敗",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q013",
-    "ruby": "其[そ]の身[み]正[ただ]しければ令[れい]せずして行[おこな]われ、其[そ]の身[み]正[ただ]しからざれば令[れい]すといえども従[したが]わず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子路",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "失[しっ]敗[ぱい]することを恐[おそ]れるより、何[なに]もしないことを恐[おそ]れろ。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の挑戦についての言葉",
+    "category": "失敗",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q014",
-    "ruby": "之[これ]を知[し]る者[もの]は之[これ]を好[この]む者[もの]に如[し]かず、之[これ]を好[この]む者[もの]は之[これ]を楽[たの]しむ者[もの]に如[し]かず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』雍也",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "技[ぎ]術[じゅつ]者[しゃ]の正[せい]装[そう]とは、真[ま]っ白[しろ]なつなぎだ。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の技術者観",
+    "category": "仕事",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q015",
-    "ruby": "君[くん]子[し]坦[たん]蕩[とう]蕩[とう]、小[しょう]人[じん]長[ちょう]戚[せき]戚[せき]。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』述而",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "人[にん]間[げん]が人[にん]間[げん]らしく生[い]きるためには、夢[ゆめ]が必[ひつ]要[よう]だ。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の夢についての言葉",
+    "category": "夢",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q016",
-    "ruby": "仁[じん]遠[とお]からんや、我[わ]れ仁[じん]を欲[ほっ]すれば斯[ここ]に仁[じん]至[いた]る。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』述而",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "人[ひと]と同[おな]じことをしていたら、人[ひと]と同[おな]じ結[けっ]果[か]しか得[え]られない。",
+    "author": "本田宗一郎",
+    "source": "本田宗一郎の独創性についての言葉",
+    "category": "創造",
+    "sourceUrl": "https://showa-g.org/wremarks/index/page%3A50"
   },
   {
     "id": "q017",
-    "ruby": "知[ち]者[しゃ]は水[みず]を楽[たの]しみ、仁[じん]者[しゃ]は山[やま]を楽[たの]しむ。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』雍也",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "芸[げい]術[じゅつ]は爆[ばく]発[はつ]だ。",
+    "author": "岡本太郎",
+    "source": "岡本太郎の芸術観",
+    "category": "芸術",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q018",
-    "ruby": "後[こう]生[せい]畏[おそ]るべし。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子罕",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "自[じ]分[ぶん]の姿[すがた]をありのまま直[ちょく]視[し]する、それが人[じん]生[せい]の成[せい]功[こう]だ。",
+    "author": "岡本太郎",
+    "source": "『自分の中に毒を持て』所収の言葉",
+    "category": "生き方",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q019",
-    "ruby": "逝[ゆ]く者[もの]は斯[か]くの如[ごと]きか、昼[ちゅう]夜[や]を舎[お]かず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』子罕",
-    "category": "時間",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "うまくある必[ひつ]要[よう]はない。楽[たの]しければいい。",
+    "author": "岡本太郎",
+    "source": "岡本太郎の人生観",
+    "category": "生き方",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q020",
-    "ruby": "天[てん]を怨[うら]みず、人[ひと]を尤[とが]めず。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』憲問",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "人[じん]生[せい]は、常[つね]に冒[ぼう]険[けん]だ。",
+    "author": "岡本太郎",
+    "source": "岡本太郎の人生観",
+    "category": "挑戦",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q021",
-    "ruby": "千[せん]里[り]の行[こう]も、足[あし]下[もと]より始[はじ]まる。",
-    "author": "老子とされる言葉",
-    "source": "『老子道徳経』",
-    "category": "一歩",
-    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+    "ruby": "自[じ]分[ぶん]の中[なか]に毒[どく]を持[も]て。",
+    "author": "岡本太郎",
+    "source": "『自分の中に毒を持て』",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q022",
-    "ruby": "上[じょう]善[ぜん]は水[みず]の若[ごと]し。",
-    "author": "老子とされる言葉",
-    "source": "『老子道徳経』",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+    "ruby": "他[た]人[にん]の目[め]を気[き]にせず、自[じ]分[ぶん]の道[みち]を行[い]け。",
+    "author": "岡本太郎",
+    "source": "岡本太郎の自分らしさについての言葉",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.taromuseum.jp/"
   },
   {
     "id": "q023",
-    "ruby": "足[た]るを知[し]る者[もの]は富[と]む。",
-    "author": "老子とされる言葉",
-    "source": "『老子道徳経』",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+    "ruby": "人[じん]生[せい]・仕[し]事[ごと]の結[けっ]果[か]は、考[かんが]え方[かた]と熱[ねつ]意[い]と能[のう]力[りょく]の掛[か]け算[ざん]で決[き]まる。",
+    "author": "稲盛和夫",
+    "source": "『生き方』所収の人生方程式",
+    "category": "仕事",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q024",
-    "ruby": "大[たい]器[き]は晩[ばん]成[せい]す。",
-    "author": "老子とされる言葉",
-    "source": "『老子道徳経』",
-    "category": "成長",
-    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+    "ruby": "誰[だれ]にも負[ま]けない努[ど]力[りょく]をする。",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の六つの精進",
+    "category": "努力",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q025",
-    "ruby": "知[し]る者[もの]は言[い]わず、言[い]う者[もの]は知[し]らず。",
-    "author": "老子とされる言葉",
-    "source": "『老子道徳経』",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/老子道徳経"
+    "ruby": "楽[らっ]観[かん]的[てき]に構[こう]想[そう]し、悲[ひ]観[かん]的[てき]に計[けい]画[かく]し、楽[らっ]観[かん]的[てき]に実[じっ]行[こう]する。",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の経営哲学",
+    "category": "計画",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q026",
-    "ruby": "明[めい]鏡[きょう]止[し]水[すい]。",
-    "author": "荘子とされる言葉",
-    "source": "『荘子』",
-    "category": "心",
-    "sourceUrl": "https://ja.wikisource.org/wiki/荘子"
+    "ruby": "動[どう]機[き]は善[ぜん]か、私[し]心[しん]はないか。",
+    "author": "稲盛和夫",
+    "source": "『京セラフィロソフィ』所収の問い",
+    "category": "仕事",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q027",
-    "ruby": "井[い]の中[なか]の蛙[かわず]、大[たい]海[かい]を知[し]らず。",
-    "author": "荘子に由来するとされる言葉",
-    "source": "『荘子』秋水",
-    "category": "視野",
-    "sourceUrl": "https://ja.wikisource.org/wiki/荘子"
+    "ruby": "人[じん]生[せい]の目[もく]的[てき]は、心[こころ]を高[たか]めることにある。",
+    "author": "稲盛和夫",
+    "source": "『生き方』所収の人生観",
+    "category": "生き方",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q028",
-    "ruby": "人[じん]間[かん]万[ばん]事[じ]塞[さい]翁[おう]が馬[うま]。",
-    "author": "故事成語",
-    "source": "『淮南子』人間訓",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/淮南子"
+    "ruby": "夢[ゆめ]を持[も]ち、希[き]望[ぼう]を持[も]ち、努[ど]力[りょく]を重[かさ]ねる。",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の人生訓",
+    "category": "夢",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q029",
-    "ruby": "百[ひゃく]聞[ぶん]は一[いっ]見[けん]に如[し]かず。",
-    "author": "故事成語",
-    "source": "『漢書』趙充国伝",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/漢書"
+    "ruby": "仕[し]事[ごと]を好[す]きになることが、成[せい]功[こう]への近[ちか]道[みち]である。",
+    "author": "稲盛和夫",
+    "source": "『働き方』所収の仕事観",
+    "category": "仕事",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q030",
-    "ruby": "先[ま]ず隗[かい]より始[はじ]めよ。",
-    "author": "故事成語",
-    "source": "『戦国策』燕策",
-    "category": "一歩",
-    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
+    "ruby": "利[り]他[た]の心[こころ]を持[も]って生[い]きる。",
+    "author": "稲盛和夫",
+    "source": "稲盛和夫の人生哲学",
+    "category": "思いやり",
+    "sourceUrl": "https://www.kyocera.co.jp/inamori/"
   },
   {
     "id": "q031",
-    "ruby": "蛇[だ]足[そく]を加[くわ]う。",
-    "author": "故事成語",
-    "source": "『戦国策』斉策",
-    "category": "ことば",
-    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
+    "ruby": "つまずいたっていいじゃないか、にんげんだもの。",
+    "author": "相田みつを",
+    "source": "『人間だもの』所収の言葉",
+    "category": "失敗",
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q032",
-    "ruby": "楚[そ]人[じん]に盾[たて]と矛[ほこ]とを鬻[ひさ]ぐ者[もの]有[あ]り。",
-    "author": "故事成語",
-    "source": "『韓非子』難勢",
-    "category": "ことば",
-    "sourceUrl": "https://ja.wikisource.org/wiki/韓非子"
+    "ruby": "しあわせは、いつも自[じ]分[ぶん]の心[こころ]がきめる。",
+    "author": "相田みつを",
+    "source": "『しあわせはいつも』所収の言葉",
+    "category": "生き方",
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q033",
-    "ruby": "玉[たま]磨[みが]かざれば光[ひかり]なし。",
-    "author": "古典に基づく言葉",
-    "source": "『礼記』学記",
-    "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/礼記"
+    "ruby": "うばい合[あ]えば足[た]らぬ、わけ合[あ]えばあまる。",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "思いやり",
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q034",
-    "ruby": "切[せつ]磋[さ]琢[たく]磨[ま]。",
-    "author": "古典に基づく言葉",
-    "source": "『詩経』衛風",
+    "ruby": "一[いっ]生[しょう]勉[べん]強[きょう]、一[いっ]生[しょう]青[せい]春[しゅん]。",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
     "category": "学び",
-    "sourceUrl": "https://ja.wikisource.org/wiki/詩経"
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q035",
-    "ruby": "一[いっ]寸[すん]の光[こう]陰[いん]軽[かろ]んずべからず。",
-    "author": "朱熹の詩に基づく言葉",
-    "source": "朱熹『偶成』",
-    "category": "時間",
-    "sourceUrl": "https://ja.wikisource.org/wiki/偶成_(朱熹)"
+    "ruby": "そのままでいいが、そのままではいけない。",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "成長",
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q036",
-    "ruby": "和[わ]を以[もっ]て貴[とうと]しとなす。",
-    "author": "聖徳太子とされる言葉",
-    "source": "『十七条憲法』第一条",
-    "category": "人との関わり",
-    "sourceUrl": "https://ja.wikisource.org/wiki/十七条憲法"
+    "ruby": "夢[ゆめ]はでっかく、根[ね]はふかく。",
+    "author": "相田みつを",
+    "source": "相田みつをの詩文",
+    "category": "夢",
+    "sourceUrl": "https://www.mitsuo.co.jp/"
   },
   {
     "id": "q037",
-    "ruby": "一[いち]期[ご]一[いち]会[え]。",
-    "author": "井伊直弼の茶道論に基づく言葉",
-    "source": "『茶湯一会集』",
-    "category": "出会い",
-    "sourceUrl": "https://meigen-zukan.com/"
+    "ruby": "世[せ]界[かい]がぜんたい幸[こう]福[ふく]にならないうちは、個[こ]人[じん]の幸[こう]福[ふく]はあり得[え]ない。",
+    "author": "宮沢賢治",
+    "source": "『農民芸術概論綱要』",
+    "category": "幸福",
+    "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
     "id": "q038",
-    "ruby": "初[しょ]心[しん]忘[わす]るべからず。",
-    "author": "世阿弥の言葉",
-    "source": "『花鏡』",
+    "ruby": "永[えい]久[きゅう]の未[み]完[かん]成[せい]これ完[かん]成[せい]である。",
+    "author": "宮沢賢治",
+    "source": "宮沢賢治の書簡・作品に見られる言葉",
     "category": "成長",
-    "sourceUrl": "https://meigen-zukan.com/"
+    "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
     "id": "q039",
-    "ruby": "日[ひ]々[び]是[こ]好[よ]日[ひ]。",
-    "author": "禅語",
-    "source": "『碧巌録』",
-    "category": "心",
-    "sourceUrl": "https://meigen-zukan.com/"
+    "ruby": "新[あら]たな時[じ]代[だい]は、世[せ]界[かい]が一[ひと]つの意[い]識[しき]になり、生[せい]物[ぶつ]となる方[ほう]向[こう]にある。",
+    "author": "宮沢賢治",
+    "source": "『農民芸術概論綱要』",
+    "category": "未来",
+    "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
     "id": "q040",
-    "ruby": "百[ひゃく]尺[しゃく]竿[かん]頭[とう]一[いっ]歩[ぽ]を進[すす]む。",
-    "author": "禅語",
-    "source": "『景徳伝灯録』",
-    "category": "一歩",
-    "sourceUrl": "https://meigen-zukan.com/"
+    "ruby": "みんながめいめいの宝[たから]を持[も]っている。",
+    "author": "宮沢賢治",
+    "source": "宮沢賢治の童話に通じる思想",
+    "category": "自分らしさ",
+    "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
     "id": "q041",
-    "ruby": "七[なな]転[ころ]び八[や]起[お]き。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "挑戦",
-    "sourceUrl": "https://meigen-zukan.com/"
+    "ruby": "正[ただ]しく強[つよ]く生[い]きるとは、どういうことか。",
+    "author": "宮沢賢治",
+    "source": "『雨ニモマケズ』をめぐる言葉",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
     "id": "q042",
-    "ruby": "石[いし]の上[うえ]にも三[さん]年[ねん]。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "継続",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q043",
-    "ruby": "継[けい]続[ぞく]は力[ちから]なり。",
-    "author": "近代の標語とされる言葉",
-    "source": "日本の標語",
-    "category": "継続",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q044",
-    "ruby": "雨[あめ]垂[だ]れ石[いし]を穿[うが]つ。",
-    "author": "故事成語",
-    "source": "『漢書』枚乗伝",
-    "category": "継続",
-    "sourceUrl": "https://ja.wikisource.org/wiki/漢書"
-  },
-  {
-    "id": "q045",
-    "ruby": "塵[ちり]も積[つ]もれば山[やま]となる。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "継続",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q046",
-    "ruby": "急[いそ]がば回[まわ]れ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q047",
-    "ruby": "笑[わら]う門[かど]には福[ふく]来[き]たる。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "心",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q048",
-    "ruby": "良[りょう]薬[やく]は口[くち]に苦[にが]し。",
-    "author": "故事成語",
-    "source": "『史記』留侯世家",
-    "category": "成長",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q049",
-    "ruby": "情[なさ]けは人[ひと]のためならず。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "人との関わり",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q050",
-    "ruby": "好[す]きこそ物[もの]の上[じょう]手[ず]なれ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "学び",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q051",
-    "ruby": "習[なら]うより慣[な]れよ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "学び",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q052",
-    "ruby": "早[はや]起[お]きは三[さん]文[もん]の徳[とく]。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生活",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q053",
-    "ruby": "災[わざわ]い転[てん]じて福[ふく]となす。",
-    "author": "故事成語",
-    "source": "『戦国策』燕策",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/戦国策"
-  },
-  {
-    "id": "q054",
-    "ruby": "念[ねん]には念[ねん]を入[い]れよ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "学び",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q055",
-    "ruby": "類[るい]は友[とも]を呼[よ]ぶ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "人との関わり",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q056",
-    "ruby": "能[のう]ある鷹[たか]は爪[つめ]を隠[かく]す。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q057",
-    "ruby": "身[み]を捨[す]ててこそ浮[う]かぶ瀬[せ]もあれ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "挑戦",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q058",
-    "ruby": "ならぬ堪[かん]忍[にん]するが堪[かん]忍[にん]。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q059",
-    "ruby": "明[あ]日[し]は明[あ]日[し]の風[かぜ]が吹[ふ]く。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q060",
-    "ruby": "まかぬ種[たね]は生[は]えぬ。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "行動",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q061",
-    "ruby": "失[しっ]敗[ぱい]は成[せい]功[こう]のもと。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "挑戦",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q062",
-    "ruby": "人[ひと]の一[いっ]生[しょう]は重[おも]荷[に]を負[お]うて遠[とお]き道[みち]をゆくがごとし、急[いそ]ぐべからず。",
-    "author": "徳川家康の遺訓とされる言葉",
-    "source": "徳川家康遺訓",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q063",
-    "ruby": "及[およ]ばざるは過[す]ぎたるより勝[まさ]れり。",
-    "author": "徳川家康の遺訓とされる言葉",
-    "source": "徳川家康遺訓",
-    "category": "生き方",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q064",
-    "ruby": "人[ひと]は城[しろ]、人[ひと]は石[いし]垣[がき]、人[ひと]は堀[ほり]、情[なさ]けは味[み]方[かた]、仇[あだ]は敵[てき]なり。",
-    "author": "武田信玄とされる言葉",
-    "source": "武田信玄の言葉とされる句",
-    "category": "人との関わり",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q065",
-    "ruby": "なせば成[な]る、なさねば成[な]らぬ何[なに]事[ごと]も、成[な]らぬは人[ひと]のなさぬなりけり。",
-    "author": "上杉鷹山の歌",
-    "source": "上杉鷹山の言葉とされる歌",
-    "category": "行動",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q066",
-    "ruby": "天[てん]は人[ひと]の上[うえ]に人[ひと]を造[つく]らず、人[ひと]の下[した]に人[ひと]を造[つく]らず。",
-    "author": "福沢諭吉",
-    "source": "『学問のすゝめ』",
-    "category": "学び",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q067",
-    "ruby": "独[どく]立[りつ]の気[き]力[りょく]なき者[もの]は、必[かなら]ず人[ひと]に依[い]頼[らい]す。",
-    "author": "福沢諭吉",
-    "source": "『学問のすゝめ』",
-    "category": "生き方",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q068",
-    "ruby": "世[よ]に生[せい]を得[え]るは、事[こと]を成[な]すにあり。",
-    "author": "坂本龍馬の言葉とされる句",
-    "source": "坂本龍馬の書簡等に伝わる言葉",
-    "category": "行動",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q069",
-    "ruby": "日[に]本[ほん]を今[いま]一[いま]度[ど]せんたくいたし申[もう]候[そうろう]。",
-    "author": "坂本龍馬",
-    "source": "坂本龍馬の書簡",
-    "category": "行動",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q070",
-    "ruby": "夢[ゆめ]なき者[もの]に理[り]想[そう]なし、理[り]想[そう]なき者[もの]に計[けい]画[かく]なし。",
-    "author": "吉田松陰の言葉とされる句",
-    "source": "吉田松陰の言葉とされる句",
-    "category": "目標",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q071",
-    "ruby": "志[こころざし]を立[た]てて以[もっ]て万[ばん]事[じ]の源[みなもと]となす。",
-    "author": "吉田松陰",
-    "source": "吉田松陰の言葉",
-    "category": "目標",
-    "sourceUrl": "https://meigen-zukan.com/"
-  },
-  {
-    "id": "q072",
-    "ruby": "古[ふる]池[いけ]や蛙[かわず]飛[と]びこむ水[みず]の音[おと]。",
-    "author": "松尾芭蕉",
-    "source": "俳句『古池や』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q073",
-    "ruby": "閑[しず]さや岩[いわ]にしみ入[い]る蝉[せみ]の声[こえ]。",
-    "author": "松尾芭蕉",
-    "source": "俳句『閑さや』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q074",
-    "ruby": "夏[なつ]草[くさ]や兵[つわもの]どもが夢[ゆめ]の跡[あと]。",
-    "author": "松尾芭蕉",
-    "source": "俳句『夏草や』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q075",
-    "ruby": "柿[かき]食[く]えば鐘[かね]が鳴[な]るなり法[ほう]隆[りゅう]寺[じ]。",
-    "author": "正岡子規",
-    "source": "俳句『柿くへば』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q076",
-    "ruby": "春[はる]の海[うみ]ひねもすのたりのたりかな。",
-    "author": "与謝蕪村",
-    "source": "俳句『春の海』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q077",
-    "ruby": "やれ打[う]つな蝿[はえ]が手[て]をすり足[あし]をする。",
-    "author": "小林一茶",
-    "source": "俳句",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q078",
-    "ruby": "我[わ]と来[き]て遊[あそ]べや親[おや]のない雀[すずめ]。",
-    "author": "小林一茶",
-    "source": "俳句",
-    "category": "人との関わり",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q079",
-    "ruby": "雀[すずめ]の子[こ]そこのけそこのけお馬[うま]が通[とお]る。",
-    "author": "小林一茶",
-    "source": "俳句",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q080",
-    "ruby": "露[つゆ]の世[よ]は露[つゆ]の世[よ]ながらさりながら。",
-    "author": "小林一茶",
-    "source": "句",
-    "category": "生き方",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q081",
-    "ruby": "春[はる]はあけぼの。",
-    "author": "清少納言",
-    "source": "『枕草子』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q082",
-    "ruby": "夏[なつ]は夜[よる]。",
-    "author": "清少納言",
-    "source": "『枕草子』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q083",
-    "ruby": "秋[あき]は夕[ゆう]暮[ぐ]れ。",
-    "author": "清少納言",
-    "source": "『枕草子』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q084",
-    "ruby": "冬[ふゆ]はつとめて。",
-    "author": "清少納言",
-    "source": "『枕草子』",
-    "category": "自然",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q085",
-    "ruby": "祇[ぎ]園[おん]精[しょう]舎[じゃ]の鐘[かね]の声[こえ]、諸[しょ]行[ぎょう]無[む]常[じょう]の響[ひび]きあり。",
-    "author": "『平家物語』",
-    "source": "『平家物語』冒頭",
-    "category": "時間",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q086",
-    "ruby": "ゆく河[かわ]の流[なが]れは絶[た]えずして、しかももとの水[みず]にあらず。",
-    "author": "鴨長明",
-    "source": "『方丈記』冒頭",
-    "category": "時間",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q087",
-    "ruby": "国[くに]境[ざかい]の長[なが]いトンネルを抜[ぬ]けると雪[ゆき]国[ぐに]であった。",
-    "author": "川端康成",
-    "source": "『雪国』冒頭",
-    "category": "文学",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q088",
-    "ruby": "吾[わ]輩[がはい]は猫[ねこ]である。",
-    "author": "夏目漱石",
-    "source": "『吾輩は猫である』冒頭",
-    "category": "文学",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q089",
-    "ruby": "坊[ぼっ]ちゃんは親[おや]譲[ゆず]りの無[む]鉄[てっ]砲[ぽう]で小[こ]供[ども]の時[とき]から損[そん]ばかりしている。",
-    "author": "夏目漱石",
-    "source": "『坊っちゃん』冒頭",
-    "category": "文学",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q090",
-    "ruby": "恥[は]の多[おお]い生[しょう]涯[がい]を送[おく]って来[き]ました。",
-    "author": "太宰治",
-    "source": "『人間失格』冒頭",
-    "category": "文学",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q091",
-    "ruby": "生[う]まれて、すみません。",
-    "author": "太宰治",
-    "source": "太宰治の言葉として知られる句",
-    "category": "文学",
-    "sourceUrl": "https://www.aozora.gr.jp/"
-  },
-  {
-    "id": "q092",
-    "ruby": "雨[あめ]ニモマケズ、風[かぜ]ニモマケズ。",
+    "ruby": "ほめられもせず、苦[く]にもされず、そういう人[ひと]にわたしはなりたい。",
     "author": "宮沢賢治",
     "source": "『雨ニモマケズ』",
     "category": "生き方",
     "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
-    "id": "q093",
-    "ruby": "世[せ]界[かい]がぜんたい幸[こう]福[ふく]にならないうちは個[こ]人[じん]の幸[こう]福[ふく]は有[あ]り得[え]ない。",
-    "author": "宮沢賢治",
-    "source": "『農民芸術概論綱要』",
-    "category": "人との関わり",
+    "id": "q043",
+    "ruby": "恥[はじ]の多[おお]い生[しょう]涯[がい]を送[おく]って来[き]ました。",
+    "author": "太宰治",
+    "source": "『人間失格』",
+    "category": "ことば",
     "sourceUrl": "https://www.aozora.gr.jp/"
   },
   {
-    "id": "q094",
-    "ruby": "人[じん]間[かん]到[いた]る処[ところ]青[せい]山[ざん]あり。",
-    "author": "月性",
-    "source": "漢詩『将東遊題壁』",
-    "category": "旅立ち",
+    "id": "q044",
+    "ruby": "富[ふ]士[じ]には、月[つき]見[み]草[そう]がよく似[に]合[あ]う。",
+    "author": "太宰治",
+    "source": "『富嶽百景』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q045",
+    "ruby": "人[にん]間[げん]は、恋[こい]と革[かく]命[めい]のために生[う]まれてきたのだ。",
+    "author": "太宰治",
+    "source": "『斜陽』",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q046",
+    "ruby": "子[こ]供[ども]より親[おや]が大[だい]事[じ]、と思[おも]いたい。",
+    "author": "太宰治",
+    "source": "『桜桃』",
+    "category": "家族",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q047",
+    "ruby": "人[にん]間[げん]、失[しっ]格[かく]。",
+    "author": "太宰治",
+    "source": "『人間失格』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q048",
+    "ruby": "幸[こう]福[ふく]は、家[か]庭[てい]の中[なか]にある。",
+    "author": "太宰治",
+    "source": "『家庭の幸福』",
+    "category": "家族",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q049",
+    "ruby": "国[こっ]境[きょう]の長[なが]いトンネルを抜[ぬ]けると、雪[ゆき]国[ぐに]であった。",
+    "author": "川端康成",
+    "source": "『雪国』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q050",
+    "ruby": "道[みち]がつづら折[お]りになって、いよいよ天[あま]城[ぎ]峠[とうげ]に近[ちか]づいた。",
+    "author": "川端康成",
+    "source": "『伊豆の踊子』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q051",
+    "ruby": "美[うつく]しい日[に]本[ほん]の私[わたし]。",
+    "author": "川端康成",
+    "source": "ノーベル文学賞受賞講演『美しい日本の私』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q052",
+    "ruby": "雪[ゆき]国[ぐに]の夜[よる]の底[そこ]が白[しろ]くなった。",
+    "author": "川端康成",
+    "source": "『雪国』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q053",
+    "ruby": "美[うつく]しいものは、静[しず]かに人[ひと]の心[こころ]を動[うご]かす。",
+    "author": "川端康成",
+    "source": "『美しい日本の私』をめぐる言葉",
+    "category": "美意識",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q054",
+    "ruby": "人[じん]生[せい]は一[ひと]箱[はこ]のマッチに似[に]ている。重[じゅう]大[だい]に扱[あつか]うのは、ばかばかしい。",
+    "author": "芥川龍之介",
+    "source": "『侏儒の言葉』",
+    "category": "生き方",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q055",
+    "ruby": "我[われ]々[われ]の生[せい]活[かつ]に必[ひつ]要[よう]なのは、勇[ゆう]気[き]ではなく習[しゅう]慣[かん]である。",
+    "author": "芥川龍之介",
+    "source": "『侏儒の言葉』",
+    "category": "習慣",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q056",
+    "ruby": "何[なに]か僕[ぼく]の将[しょう]来[らい]に対[たい]する、唯[た]だぼんやりした不[ふ]安[あん]がある。",
+    "author": "芥川龍之介",
+    "source": "『或旧友へ送る手記』",
+    "category": "ことば",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q057",
+    "ruby": "人[にん]間[げん]は、好[この]んで苦[くる]しい目[め]に遭[あ]うものだ。",
+    "author": "芥川龍之介",
+    "source": "『侏儒の言葉』",
+    "category": "人間",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q058",
+    "ruby": "自[じ]由[ゆう]は、山[さん]頂[ちょう]の空[くう]気[き]に似[に]ている。",
+    "author": "芥川龍之介",
+    "source": "『侏儒の言葉』",
+    "category": "自由",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q059",
+    "ruby": "人[にん]間[げん]の心[こころ]には、善[ぜん]と悪[あく]が同[どう]時[じ]にある。",
+    "author": "芥川龍之介",
+    "source": "芥川龍之介作品に通じる人間観",
+    "category": "人間",
+    "sourceUrl": "https://www.aozora.gr.jp/"
+  },
+  {
+    "id": "q060",
+    "ruby": "小[ちい]さなことを積[つ]み重[かさ]ねることが、とんでもないところへ行[い]くたった一[ひと]つの道[みち]だと思[おも]っています。",
+    "author": "イチロー",
+    "source": "インタビュー・引退会見での発言",
+    "category": "継続",
     "sourceUrl": "https://meigen-zukan.com/"
   },
   {
+    "id": "q061",
+    "ruby": "努[ど]力[りょく]せずに何[なに]かできるようになる人[ひと]を天[てん]才[さい]というのなら、僕[ぼく]はそうではない。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q062",
+    "ruby": "夢[ゆめ]は近[ちか]づくと目[もく]標[ひょう]に変[か]わる。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "夢",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q063",
+    "ruby": "結[けっ]果[か]が出[で]ないとき、どういう自[じ]分[ぶん]でいられるかが大[だい]事[じ]です。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "心の持ち方",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q064",
+    "ruby": "自[じ]分[ぶん]の限[げん]界[かい]を少[すこ]しずつ広[ひろ]げていく。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q065",
+    "ruby": "他[た]人[にん]の評[ひょう]価[か]より、自[じ]分[ぶん]が納[なっ]得[とく]できるかどうかが大[たい]切[せつ]です。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "自分らしさ",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q066",
+    "ruby": "できると思[おも]うから挑[ちょう]戦[せん]するのではなく、やりたいと思[おも]うから挑[ちょう]戦[せん]する。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "挑戦",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q067",
+    "ruby": "いま自[じ]分[ぶん]にできることを、しっかりやる。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "集中",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q068",
+    "ruby": "何[なに]かを達[たっ]成[せい]するには、変[か]わらないことと変[か]えることが必[ひつ]要[よう]です。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "成長",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q069",
+    "ruby": "遠[とお]回[まわ]りをした分[ぶん]だけ、深[ふか]く考[かんが]えることができます。",
+    "author": "イチロー",
+    "source": "インタビューでの発言",
+    "category": "学び",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q070",
+    "ruby": "先[せん]入[にゅう]観[かん]は可[か]能[のう]性[せい]を狭[せば]める。",
+    "author": "大谷翔平",
+    "source": "高校時代から知られる言葉",
+    "category": "可能性",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q071",
+    "ruby": "誰[だれ]もやったことのないことをやりたい。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q072",
+    "ruby": "無[む]駄[だ]なことは何[なに]もない。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "学び",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q073",
+    "ruby": "悔[くや]しいという気[き]持[も]ちがないと、成[せい]長[ちょう]できない。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "成長",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q074",
+    "ruby": "自[じ]分[ぶん]の力[ちから]を信[しん]じて、やるべきことをやる。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "集中",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q075",
+    "ruby": "野[や]球[きゅう]を楽[たの]しむ気[き]持[も]ちを忘[わす]れない。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "楽しむ",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q076",
+    "ruby": "目[もく]標[ひょう]を達[たっ]成[せい]するには、毎[まい]日[にち]の積[つ]み重[かさ]ねが大[たい]切[せつ]です。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "継続",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q077",
+    "ruby": "もっともっと上[うま]くなりたい。",
+    "author": "大谷翔平",
+    "source": "インタビューでの発言",
+    "category": "成長",
+    "sourceUrl": "https://www.japan-baseball.jp/"
+  },
+  {
+    "id": "q078",
+    "ruby": "才[さい]能[のう]とは、努[ど]力[りょく]を継[けい]続[ぞく]できる力[ちから]です。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "努力",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q079",
+    "ruby": "直[ちょっ]感[かん]の七[なな]割[わり]は正[ただ]しい。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "直感",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q080",
+    "ruby": "勝[か]ちを知[し]るより、負[ま]けを知[し]るほうが大[たい]切[せつ]です。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "失敗",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q081",
+    "ruby": "守[まも]りたいものがあると、人[ひと]は強[つよ]くなれます。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "心の持ち方",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q082",
+    "ruby": "将[しょう]棋[ぎ]では、負[ま]けから学[まな]べることのほうが多[おお]い。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "学び",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q083",
+    "ruby": "迷[まよ]ったときは、どちらが正[ただ]しいかではなく、どちらが楽[たの]しいかで決[き]める。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "選択",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q084",
+    "ruby": "すぐに答[こた]えを出[だ]さず、考[かんが]え続[つづ]けることが大[たい]切[せつ]です。",
+    "author": "羽生善治",
+    "source": "著書・インタビューでの言葉",
+    "category": "思考",
+    "sourceUrl": "https://www.shogi.or.jp/"
+  },
+  {
+    "id": "q085",
+    "ruby": "失[しっ]敗[ぱい]と書[か]いて、成[せい]長[ちょう]と読[よ]む。",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "失敗",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q086",
+    "ruby": "人[にん]間[げん]は、無[む]視[し]されることが一[いち]番[ばん]つらい。",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "人間",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q087",
+    "ruby": "才[さい]能[のう]は、努[ど]力[りょく]によって開[かい]花[か]する。",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "努力",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q088",
+    "ruby": "考[かんが]えて、考[かんが]えて、考[かんが]え抜[ぬ]け。",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "思考",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q089",
+    "ruby": "一[いち]流[りゅう]になる人[ひと]は、努[ど]力[りょく]を続[つづ]けられる人[ひと]だ。",
+    "author": "野村克也",
+    "source": "野村克也の指導者論",
+    "category": "継続",
+    "sourceUrl": "https://meigen-zukan.com/"
+  },
+  {
+    "id": "q090",
+    "ruby": "研[けん]究[きゅう]は、失[しっ]敗[ぱい]の積[つ]み重[かさ]ねの中[なか]から成[せい]果[か]が生[う]まれる。",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての講演・発言",
+    "category": "研究",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/"
+  },
+  {
+    "id": "q091",
+    "ruby": "できるかできないかではなく、やるかやらないかが大[たい]切[せつ]です。",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての講演・発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/"
+  },
+  {
+    "id": "q092",
+    "ruby": "研[けん]究[きゅう]者[しゃ]にとって大[たい]切[せつ]なのは、好[こう]奇[き]心[しん]です。",
+    "author": "山中伸弥",
+    "source": "研究と好奇心についての発言",
+    "category": "研究",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/"
+  },
+  {
+    "id": "q093",
+    "ruby": "失[しっ]敗[ぱい]を恐[おそ]れず、挑[ちょう]戦[せん]し続[つづ]けることが大[たい]切[せつ]です。",
+    "author": "山中伸弥",
+    "source": "研究と挑戦についての講演・発言",
+    "category": "挑戦",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/"
+  },
+  {
+    "id": "q094",
+    "ruby": "人[ひと]の役[やく]に立[た]つ研[けん]究[きゅう]をしたい。",
+    "author": "山中伸弥",
+    "source": "研究者としての志を語った発言",
+    "category": "研究",
+    "sourceUrl": "https://www.cira.kyoto-u.ac.jp/j/"
+  },
+  {
     "id": "q095",
-    "ruby": "花[はな]は桜[さくら]木[ぎ]、人[ひと]は武[ぶ]士[し]。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
+    "ruby": "人[じん]生[せい]に失[しっ]敗[ぱい]がないと、人[じん]生[せい]を失[しっ]敗[ぱい]する。",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "失敗",
     "sourceUrl": "https://meigen-zukan.com/"
   },
   {
     "id": "q096",
-    "ruby": "武[ぶ]士[し]は食[く]わねど高[たか]楊[よう]枝[じ]。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
+    "ruby": "努[ど]力[りょく]は、夢[ゆめ]を実[じつ]現[げん]するための道[みち]具[ぐ]です。",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "努力",
     "sourceUrl": "https://meigen-zukan.com/"
   },
   {
     "id": "q097",
-    "ruby": "命[いのち]に過[す]ぎたる宝[たから]なし。",
-    "author": "ことわざ",
-    "source": "日本のことわざ",
-    "category": "生き方",
+    "ruby": "自[じ]分[ぶん]の人[じん]生[せい]は、自[じ]分[ぶん]で決[き]める。",
+    "author": "北野武",
+    "source": "著書・インタビューでの言葉",
+    "category": "自分らしさ",
     "sourceUrl": "https://meigen-zukan.com/"
   },
   {
     "id": "q098",
-    "ruby": "衣[い]食[しょく]足[た]りて礼[れい]節[せつ]を知[し]る。",
-    "author": "管仲とされる言葉",
-    "source": "『管子』牧民",
-    "category": "生き方",
+    "ruby": "人[ひと]は生[い]きている限[かぎ]り、何[なん]度[ど]でもやり直[なお]すことができます。",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "再出発",
     "sourceUrl": "https://meigen-zukan.com/"
   },
   {
     "id": "q099",
-    "ruby": "過[す]ぎたるは猶[なお]及[およ]ばざるが如[ごと]し。",
-    "author": "孔子とされる言葉",
-    "source": "『論語』先進",
-    "category": "生き方",
-    "sourceUrl": "https://ja.wikisource.org/wiki/論語"
+    "ruby": "愛[あい]するということは、相[あい]手[て]を許[ゆる]すことです。",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた愛についての言葉",
+    "category": "愛",
+    "sourceUrl": "https://meigen-zukan.com/"
   },
   {
     "id": "q100",
-    "ruby": "天[てん]は自[みずか]ら助[たす]くる者[もの]を助[たす]く。",
-    "author": "中村正直による訳語として知られる言葉",
-    "source": "『西国立志編』",
-    "category": "行動",
-    "sourceUrl": "https://www.aozora.gr.jp/"
+    "ruby": "今[きょ]日[う]を生[い]きることが、明[あ]日[す]をつくるのです。",
+    "author": "瀬戸内寂聴",
+    "source": "著書・講演で語られた人生観",
+    "category": "生き方",
+    "sourceUrl": "https://meigen-zukan.com/"
   }
 ]
