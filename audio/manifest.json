@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:53:10.297Z",
+  "generatedAt": "2026-10-18T03:00:06.670Z",
   "voice": "ja-JP-Standard-C",
   "voiceGender": "MALE",
   "languageCode": "ja-JP",
@@ -381,43 +381,43 @@
     {
       "id": "q054",
       "file": "q054.mp3",
-      "bytes": 49344,
-      "durationSeconds": 6.168,
+      "bytes": 37056,
+      "durationSeconds": 4.632,
       "bitRate": 64000
     },
     {
       "id": "q055",
       "file": "q055.mp3",
-      "bytes": 43200,
-      "durationSeconds": 5.4,
+      "bytes": 42816,
+      "durationSeconds": 5.352,
       "bitRate": 64000
     },
     {
       "id": "q056",
       "file": "q056.mp3",
-      "bytes": 42432,
-      "durationSeconds": 5.304,
+      "bytes": 38976,
+      "durationSeconds": 4.872,
       "bitRate": 64000
     },
     {
       "id": "q057",
       "file": "q057.mp3",
-      "bytes": 29760,
-      "durationSeconds": 3.72,
+      "bytes": 25152,
+      "durationSeconds": 3.144,
       "bitRate": 64000
     },
     {
       "id": "q058",
       "file": "q058.mp3",
-      "bytes": 26688,
-      "durationSeconds": 3.336,
+      "bytes": 19008,
+      "durationSeconds": 2.376,
       "bitRate": 64000
     },
     {
       "id": "q059",
       "file": "q059.mp3",
-      "bytes": 36096,
-      "durationSeconds": 4.512,
+      "bytes": 39360,
+      "durationSeconds": 4.92,
       "bitRate": 64000
     },
     {
