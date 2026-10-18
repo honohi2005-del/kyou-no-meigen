@@ -39,7 +39,7 @@ const DB_NAME = "kyou-no-meigen-recordings";
 const DB_VERSION = 1;
 const RECORDINGS_STORE = "recordings";
 const TOKYO_TIME_ZONE = "Asia/Tokyo";
-const CONTENT_VERSION = "8b0a76e";
+const CONTENT_VERSION = "900cba1";
 
 function plainText(rubyText) {
   return rubyText.replace(/\[[^\]]+\]/g, "");
