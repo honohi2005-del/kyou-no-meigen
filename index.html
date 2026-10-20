@@ -80,11 +80,17 @@
             </div>
             <span id="quote-count" class="quote-count">—</span>
           </div>
-          <label class="search-box">
-            <span class="sr-only">名言を検索</span>
-            <span class="search-icon" aria-hidden="true">⌕</span>
-            <input id="quote-search" type="search" placeholder="言葉・人物・出典で検索" autocomplete="off">
-          </label>
+          <div class="library-filters">
+            <label class="search-box">
+              <span class="sr-only">名言を検索</span>
+              <span class="search-icon" aria-hidden="true">⌕</span>
+              <input id="quote-search" type="search" placeholder="言葉・人物・出典で検索" autocomplete="off">
+            </label>
+            <label class="recorded-filter">
+              <input id="recorded-only" type="checkbox">
+              <span>録音保存済みのみ</span>
+            </label>
+          </div>
           <div id="quote-list" class="quote-list" aria-live="polite"></div>
         </section>
       </main>
@@ -94,6 +100,6 @@
         <p class="footer-small">名言の出典は各項目のリンク先と表示された典拠をご確認ください。</p>
       </footer>
     </div>
-    <script type="module" src="./app.js?v=900cba1"></script>
+    <script type="module" src="./app.js?v=recorded-filter-v1"></script>
   </body>
 </html>

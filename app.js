@@ -17,6 +17,7 @@ const els = {
   recordingActions: $("recording-actions"),
   deleteRecording: $("delete-recording"),
   quoteSearch: $("quote-search"),
+  recordedOnly: $("recorded-only"),
   quoteList: $("quote-list"),
   quoteCount: $("quote-count"),
 };
@@ -25,6 +26,8 @@ const state = {
   quotes: [],
   currentQuote: null,
   audioManifest: new Set(),
+  recordedQuoteIds: new Set(),
+  showRecordedOnly: false,
   db: null,
   recorder: null,
   mediaStream: null,
@@ -39,7 +42,7 @@ const DB_NAME = "kyou-no-meigen-recordings";
 const DB_VERSION = 1;
 const RECORDINGS_STORE = "recordings";
 const TOKYO_TIME_ZONE = "Asia/Tokyo";
-const CONTENT_VERSION = "6d8f2b1";
+const CONTENT_VERSION = "recorded-filter-v1";
 
 function plainText(rubyText) {
   return rubyText.replace(/\[[^\]]+\]/g, "");
@@ -155,6 +158,7 @@ function renderCurrentQuote() {
 function renderQuoteList(query = "") {
   const normalized = query.trim().toLocaleLowerCase("ja-JP");
   const filtered = state.quotes.filter((quote) => {
+    if (state.showRecordedOnly && !state.recordedQuoteIds.has(quote.id)) return false;
     if (!normalized) return true;
     const searchable = (quote.text + " " + quote.author + " " + quote.source + " " + quote.category).toLocaleLowerCase("ja-JP");
     return searchable.includes(normalized);
@@ -164,7 +168,9 @@ function renderQuoteList(query = "") {
   if (filtered.length === 0) {
     const empty = document.createElement("p");
     empty.className = "empty-state";
-    empty.textContent = "見つかりませんでした。別の言葉で検索してください。";
+    empty.textContent = state.showRecordedOnly
+      ? "録音保存済みの名言はまだありません。"
+      : "見つかりませんでした。別の言葉で検索してください。";
     els.quoteList.append(empty);
     els.quoteCount.textContent = "0件";
     return;
@@ -190,7 +196,8 @@ function renderQuoteList(query = "") {
     fragment.append(button);
   }
   els.quoteList.append(fragment);
-  els.quoteCount.textContent = normalized ? filtered.length + " / " + state.quotes.length + "件" : state.quotes.length + "件";
+  const hasFilters = Boolean(normalized) || state.showRecordedOnly;
+  els.quoteCount.textContent = hasFilters ? filtered.length + " / " + state.quotes.length + "件" : state.quotes.length + "件";
 }
 
 function selectQuote(id, updateUrl = true) {
@@ -263,6 +270,37 @@ async function getRecording(key) {
     request.onsuccess = () => resolve(request.result ?? null);
     request.onerror = () => reject(request.error);
   });
+}
+
+async function getAllRecordings() {
+  const database = await openDatabase();
+  return new Promise((resolve, reject) => {
+    const transaction = database.transaction(RECORDINGS_STORE, "readonly");
+    const request = transaction.objectStore(RECORDINGS_STORE).getAll();
+    request.onsuccess = () => resolve(request.result ?? []);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+function getQuoteIdFromRecording(recording) {
+  if (typeof recording?.quoteId === "string") return recording.quoteId;
+  if (typeof recording?.key !== "string") return null;
+  const separator = recording.key.lastIndexOf(":");
+  return separator === -1 ? null : recording.key.slice(separator + 1);
+}
+
+async function refreshRecordedQuoteIds() {
+  try {
+    const recordings = await getAllRecordings();
+    state.recordedQuoteIds = new Set(
+      recordings
+        .map(getQuoteIdFromRecording)
+        .filter(Boolean),
+    );
+  } catch {
+    state.recordedQuoteIds = new Set();
+  }
+  renderQuoteList(els.quoteSearch.value);
 }
 
 async function saveRecording(recording) {
@@ -392,6 +430,7 @@ async function finishRecording() {
       durationMs,
       savedAt: new Date().toISOString(),
     });
+    await refreshRecordedQuoteIds();
     if (state.currentQuote && key.endsWith(":" + state.currentQuote.id)) {
       await loadStudentRecording();
     }
@@ -413,6 +452,7 @@ async function deleteCurrentRecording() {
   if (!key) return;
   try {
     await removeRecording(key);
+    await refreshRecordedQuoteIds();
     clearStudentAudio();
     els.recordingTime.textContent = "00:00";
     setStatus("削除しました");
@@ -448,6 +488,7 @@ async function init() {
     renderQuoteList();
     els.recordButton.disabled = false;
     await Promise.allSettled([loadAudioManifest(), loadStudentRecording()]);
+    await refreshRecordedQuoteIds();
   } catch (error) {
     console.error("quote data load failed", error);
     showAppError("名言データを読み込めませんでした。ページを再読み込みしてください。");
@@ -486,6 +527,10 @@ els.quoteAudio.addEventListener("error", () => {
 els.recordButton.addEventListener("click", toggleRecording);
 els.deleteRecording.addEventListener("click", deleteCurrentRecording);
 els.quoteSearch.addEventListener("input", (event) => renderQuoteList(event.target.value));
+els.recordedOnly.addEventListener("change", (event) => {
+  state.showRecordedOnly = event.target.checked;
+  renderQuoteList(els.quoteSearch.value);
+});
 els.quoteList.addEventListener("click", (event) => {
   const item = event.target.closest("[data-quote-id]");
   if (item) selectQuote(item.dataset.quoteId);
